@@ -1,0 +1,57 @@
+2025-02-14 21:58:55.920 [info] [main] 日志级别: Info
+2025-02-14 21:58:55.920 [info] [main] 正在验证在以下位置找到的 git: "git"
+2025-02-14 21:58:55.920 [info] [main] 使用来自 "git" 的 git "2.48.1"
+2025-02-14 21:58:55.920 [info] [Model][doInitialScan] Initial repository scan started
+2025-02-14 21:58:55.920 [info] > git rev-parse --show-toplevel [16ms]
+2025-02-14 21:58:55.920 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2025-02-14 21:58:55.920 [info] [Model][openRepository] Opened repository: /home/hooke/works/wnri-bluet-v5
+2025-02-14 21:58:55.921 [info] > git rev-parse --show-toplevel [10ms]
+2025-02-14 21:58:55.921 [info] > git config --get commit.template [24ms]
+2025-02-14 21:58:55.967 [info] > git rev-parse --show-toplevel [14ms]
+2025-02-14 21:58:55.967 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [30ms]
+2025-02-14 21:58:55.993 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hooke/works/wnri-bluet-v5/.git/refs/remotes/origin/master'
+2025-02-14 21:58:56.002 [info] > git rev-parse refs/remotes/origin/master [9ms]
+2025-02-14 21:58:56.032 [info] > git rev-parse --show-toplevel [51ms]
+2025-02-14 21:58:56.996 [info] > git status -z -uall [980ms]
+2025-02-14 21:58:56.997 [info] > git rev-parse --show-toplevel [949ms]
+2025-02-14 21:58:56.997 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [966ms]
+2025-02-14 21:58:57.096 [info] > git check-ignore -v -z --stdin [80ms]
+2025-02-14 21:58:57.097 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [31ms]
+2025-02-14 21:58:57.115 [info] > git rev-parse --show-toplevel [77ms]
+2025-02-14 21:58:57.181 [info] > git config --get --local branch.master.vscode-merge-base [66ms]
+2025-02-14 21:58:57.196 [info] > git config --get commit.template [101ms]
+2025-02-14 21:58:57.200 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [4ms]
+2025-02-14 21:58:57.217 [info] > git rev-parse --show-toplevel [37ms]
+2025-02-14 21:58:57.251 [info] > git rev-parse --show-toplevel [2ms]
+2025-02-14 21:58:57.252 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [18ms]
+2025-02-14 21:58:57.252 [info] > git merge-base refs/heads/master refs/remotes/origin/master [36ms]
+2025-02-14 21:58:57.299 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hooke/works/wnri-bluet-v5/.git/refs/remotes/origin/master'
+2025-02-14 21:58:57.300 [info] > git rev-parse --show-toplevel [16ms]
+2025-02-14 21:58:57.301 [info] > git diff --name-status -z --diff-filter=ADMR c82cdb0220e9aed5dc2f2ec516e72895d7d470b5...refs/remotes/origin/master [34ms]
+2025-02-14 21:58:57.317 [info] > git rev-parse refs/remotes/origin/master [18ms]
+2025-02-14 21:58:57.367 [info] > git status -z -uall [35ms]
+2025-02-14 21:58:57.367 [info] > git rev-parse --show-toplevel [50ms]
+2025-02-14 21:58:57.369 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-02-14 21:58:57.407 [info] > git show --textconv :yihBluetWork/DrawEvent_v4.0.C [23ms]
+2025-02-14 21:58:57.408 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [62ms]
+2025-02-14 21:58:57.411 [info] > git ls-files --stage -- /home/hooke/works/wnri-bluet-v5/yihBluetWork/DrawEvent_v4.0.C [11ms]
+2025-02-14 21:58:57.429 [info] > git cat-file -s 3630b453a7d7c1400dc1f59b3d0bf1eb097082df [2ms]
+2025-02-14 21:58:57.474 [info] > git blame --root --incremental c82cdb0220e9aed5dc2f2ec516e72895d7d470b5 -- /home/hooke/works/wnri-bluet-v5/yihBluetWork/DrawEvent_v4.0.C [4ms]
+2025-02-14 21:58:59.070 [info] > git config --get commit.template [1ms]
+2025-02-14 21:58:59.088 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2025-02-14 21:58:59.103 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hooke/works/wnri-bluet-v5/.git/refs/remotes/origin/master'
+2025-02-14 21:58:59.103 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2025-02-14 21:58:59.137 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-02-14 21:58:59.147 [info] > git status -z -uall [28ms]
+2025-02-14 21:58:59.844 [info] > git config --get commit.template [18ms]
+2025-02-14 21:58:59.845 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2025-02-14 21:58:59.862 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hooke/works/wnri-bluet-v5/.git/refs/remotes/origin/master'
+2025-02-14 21:58:59.864 [info] > git rev-parse refs/remotes/origin/master [2ms]
+2025-02-14 21:58:59.902 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2025-02-14 21:58:59.909 [info] > git status -z -uall [28ms]
+2025-02-14 21:59:05.271 [info] > git check-ignore -v -z --stdin [1ms]
+2025-02-14 21:59:08.549 [info] > git check-ignore -v -z --stdin [1ms]
+2025-02-14 21:59:10.362 [info] > git show --textconv :BluetAna/include/BluetConfig.h [30ms]
+2025-02-14 21:59:10.364 [info] > git ls-files --stage -- /home/hooke/works/wnri-bluet-v5/BluetAna/include/BluetConfig.h [4ms]
+2025-02-14 21:59:10.390 [info] > git cat-file -s 7d3eedadabcb3adc1236b5e6317b7554184bd338 [4ms]
+2025-02-14 21:59:10.421 [info] > git blame --root --incremental c82cdb0220e9aed5dc2f2ec516e72895d7d470b5 -- /home/hooke/works/wnri-bluet-v5/BluetAna/include/BluetConfig.h [3ms]

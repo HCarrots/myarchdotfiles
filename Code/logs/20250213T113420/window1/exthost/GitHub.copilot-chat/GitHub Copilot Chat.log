@@ -1,0 +1,63 @@
+2025-02-13 17:04:24.261 [info] Using the Electron fetcher.
+2025-02-13 17:04:24.261 [info] Initializing Git extension service.
+2025-02-13 17:04:24.261 [info] Successfully activated the vscode.git extension.
+2025-02-13 17:04:24.261 [info] Enablement state of the vscode.git extension: true.
+2025-02-13 17:04:24.261 [info] Successfully registered Git commit message provider.
+2025-02-13 17:04:24.295 [warning] GitHub login failed
+2025-02-13 17:04:24.296 [info] copilot token chat_enabled: undefined, sku: 
+2025-02-13 17:04:24.555 [warning] GitHub login failed
+2025-02-13 17:04:24.556 [error] Error: GitHubLoginFailed
+    at By._authShowWarnings (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.0/dist/extension.js:547:3909)
+    at By.getCopilotToken (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.0/dist/extension.js:547:2438)
+    at dO.getCopilotToken (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.0/dist/extension.js:435:10521)
+    at u5.waitForChatEnabled (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.0/dist/extension.js:545:5388)
+    at u5.run (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.0/dist/extension.js:545:5107)
+    at py.askToUpgradeAuthPermissions (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.0/dist/extension.js:545:4545): Failed to get copilot token
+2025-02-13 17:04:24.556 [error] You are not signed in to GitHub. Please sign in to use Copilot.
+2025-02-13 17:04:24.556 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-02-13 17:04:24.556 [error] Error: GitHubLoginFailed
+    at By._authShowWarnings (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.0/dist/extension.js:547:3909)
+    at By.getCopilotToken (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.0/dist/extension.js:547:2438)
+    at dO.getCopilotToken (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.0/dist/extension.js:435:10521)
+    at Oy._getAuthSession (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.0/dist/extension.js:588:2907)
+    at Object.o [as task] (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.0/dist/extension.js:588:640)
+    at Xd._processQueue (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.0/dist/extension.js:587:1056)
+2025-02-13 17:04:24.556 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-02-13 17:04:24.556 [error] Error: GitHubLoginFailed
+    at By._authShowWarnings (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.0/dist/extension.js:547:3909)
+    at By.getCopilotToken (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.0/dist/extension.js:547:2438)
+    at dO.getCopilotToken (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.0/dist/extension.js:435:10521)
+    at Oy._getAuthSession (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.0/dist/extension.js:588:2907)
+    at t (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.0/dist/extension.js:588:2370)
+    at Oy._registerEmbeddings (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.0/dist/extension.js:588:2869)
+    at async Promise.all (index 1)
+    at async Promise.allSettled (index 0)
+    at Xh.waitForActivationBlockers (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.0/dist/extension.js:433:1956)
+    at /home/hooke/.vscode/extensions/github.copilot-chat-0.24.0/dist/extension.js:2358:4903
+    at Uhr (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.0/dist/extension.js:2358:4716)
+    at aw.n (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:4447)
+    at aw.m (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:4410)
+    at aw.l (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:3866)
+2025-02-13 17:04:24.556 [info] activationBlocker from 'languageModelAccess' took for 111ms
+2025-02-13 17:05:08.768 [info] Logged in as Hesperus-nine
+2025-02-13 17:05:09.811 [info] Got Copilot token for Hesperus-nine
+2025-02-13 17:05:09.849 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-13 17:05:09.849 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-02-13 17:05:09.856 [info] Registering default platform agent...
+2025-02-13 17:05:10.849 [info] Fetched model metadata in 915ms a008836e-6655-4949-bdd1-d4c77373da21
+2025-02-13 17:05:16.352 [info] message 0 returned. finish reason: [stop]
+2025-02-13 17:05:16.352 [info] request done: requestId: [80142023-42cb-4f0e-b667-f0b633c70a1d] model deployment ID: []
+2025-02-13 17:05:19.311 [info] message 0 returned. finish reason: [stop]
+2025-02-13 17:05:19.311 [info] request done: requestId: [837b49e8-58e8-46a1-968a-d7e04a0582d4] model deployment ID: []
+2025-02-13 17:20:12.521 [info] Fetched model metadata in 1360ms e1ddeb23-d3a3-4b88-b121-5891a8d03957
+2025-02-13 17:30:10.054 [info] Logged in as Hesperus-nine
+2025-02-13 17:30:11.132 [info] Got Copilot token for Hesperus-nine
+2025-02-13 17:30:11.141 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-13 17:55:11.138 [info] Logged in as Hesperus-nine
+2025-02-13 17:55:12.239 [info] Got Copilot token for Hesperus-nine
+2025-02-13 17:55:12.245 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-13 17:55:13.407 [info] Fetched model metadata in 1160ms 36b5bc5a-9ecd-4828-896f-efafb7976da7
+2025-02-13 18:20:12.243 [info] Logged in as Hesperus-nine
+2025-02-13 18:20:13.322 [info] Got Copilot token for Hesperus-nine
+2025-02-13 18:20:13.329 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-13 18:20:14.444 [info] Fetched model metadata in 1113ms ebc46410-9d85-48a5-8a97-a2464cd2f6aa

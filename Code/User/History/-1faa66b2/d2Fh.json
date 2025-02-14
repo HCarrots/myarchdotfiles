@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "DrawWave.C": "cpp",
+        "vector": "cpp",
+        "DrawEvent_v0.1.C": "cpp",
+        "DrawEvent_v3.0.C": "cpp",
+        "DrawEvent_v4.0.C": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp"
+    }
+}

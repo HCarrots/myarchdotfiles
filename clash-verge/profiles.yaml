@@ -1,0 +1,25 @@
+# Profiles Config for Clash Verge
+
+current: r0LItqTq5fWa
+chain: null
+valid:
+- dns
+- sub-rules
+- unified-delay
+items:
+- uid: r0LItqTq5fWa
+  type: remote
+  name: Remote File
+  file: r0LItqTq5fWa.yaml
+  url: https://onlysub.mjurl.com/api/v1/client/subscribe?token=317dbe2e5c4ec8e2f9dc0b843e5c2a4a
+  selected:
+  - name: 节点选择
+    now: 自动选择
+  extra:
+    upload: 1239921533
+    download: 174944339931
+    total: 1782411427840
+    expire: 0
+  updated: 1739155342
+  option:
+    update_interval: 1440

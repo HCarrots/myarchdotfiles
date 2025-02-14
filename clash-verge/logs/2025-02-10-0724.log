@@ -1,0 +1,9 @@
+2025-02-10 07:24:49 ERROR - failed to create the pid file
+2025-02-10 07:24:49 INFO - [clash]: time="2025-02-10T07:24:49.817285352Z" level=info msg="Start initial configuration in progress"
+2025-02-10 07:24:49 INFO - [clash]: time="2025-02-10T07:24:49.848930579Z" level=info msg="Geodata Loader mode: memconservative"
+2025-02-10 07:24:49 INFO - [clash]: time="2025-02-10T07:24:49.848951267Z" level=info msg="Geosite Matcher implementation: succinct"
+2025-02-10 07:24:49 INFO - [clash]: time="2025-02-10T07:24:49.849527746Z" level=info msg="Load GeoIP rule: cn"
+2025-02-10 07:24:49 INFO - [clash]: time="2025-02-10T07:24:49.856417990Z" level=info msg="Load GeoIP rule: telegram"
+2025-02-10 07:24:49 INFO - [clash]: time="2025-02-10T07:24:49.862406407Z" level=info msg="Finished initial GeoIP rule telegram => Telegram, records: 12"
+2025-02-10 07:24:49 INFO - [clash]: time="2025-02-10T07:24:49.862475534Z" level=info msg="Finished initial GeoIP rule cn => DIRECT, records: 10552"
+2025-02-10 07:24:49 INFO - [clash]: time="2025-02-10T07:24:49.862671655Z" level=info msg="Initial configuration complete, total time: 45ms"

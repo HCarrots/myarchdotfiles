@@ -1,0 +1,12 @@
+2025-02-14 08:18:22 ERROR - failed to create the pid file
+2025-02-14 08:18:22 INFO - [clash]: time="2025-02-14T08:18:22.300929627+08:00" level=info msg="Start initial configuration in progress"
+2025-02-14 08:18:22 INFO - [clash]: time="2025-02-14T08:18:22.330260273+08:00" level=info msg="Geodata Loader mode: memconservative"
+2025-02-14 08:18:22 INFO - [clash]: time="2025-02-14T08:18:22.330277015+08:00" level=info msg="Geosite Matcher implementation: succinct"
+2025-02-14 08:18:22 INFO - [clash]: time="2025-02-14T08:18:22.330829351+08:00" level=info msg="Load GeoIP rule: cn"
+2025-02-14 08:18:22 INFO - [clash]: time="2025-02-14T08:18:22.337671192+08:00" level=info msg="Load GeoIP rule: telegram"
+2025-02-14 08:18:22 INFO - running timer task `r0LItqTq5fWa`
+2025-02-14 08:18:22 ERROR - error sending request for url (https://onlysub.mjurl.com/api/v1/client/subscribe?token=317dbe2e5c4ec8e2f9dc0b843e5c2a4a): error trying to connect: dns error: failed to lookup address information: 域名解析出现暂时性错误
+2025-02-14 08:18:22 INFO - [clash]: time="2025-02-14T08:18:22.344452570+08:00" level=info msg="Finished initial GeoIP rule telegram => Telegram, records: 12"
+2025-02-14 08:18:22 INFO - [clash]: time="2025-02-14T08:18:22.344518584+08:00" level=info msg="Finished initial GeoIP rule cn => DIRECT, records: 10552"
+2025-02-14 08:18:22 INFO - [clash]: time="2025-02-14T08:18:22.344663766+08:00" level=info msg="Initial configuration complete, total time: 43ms"
+2025-02-14 08:18:22 INFO - [clash]: time="2025-02-14T08:18:22.351225602+08:00" level=error msg="Start TUN listening error: configure tun interface: operation not permitted"

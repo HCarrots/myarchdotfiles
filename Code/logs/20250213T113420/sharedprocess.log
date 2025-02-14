@@ -1,0 +1,40 @@
+2025-02-13 11:34:22.118 [info] Marked extension as removed ms-ceintl.vscode-language-pack-zh-hans-1.97.2025020509
+2025-02-13 11:34:22.118 [info] Marked extension as removed ms-vscode.cpptools-1.23.6
+2025-02-13 11:34:22.182 [info] Deleted marked for removal extension from disk ms-ceintl.vscode-language-pack-zh-hans /home/hooke/.vscode/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.97.2025020509
+2025-02-13 11:34:22.184 [info] Deleted marked for removal extension from disk ms-vscode.cpptools /home/hooke/.vscode/extensions/ms-vscode.cpptools-1.23.6-linux-x64
+2025-02-13 14:32:34.131 [info] Getting Manifest... albertopdrf.root-file-viewer
+2025-02-13 14:32:34.374 [info] Installing extension: albertopdrf.root-file-viewer {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hooke/.vscode/extensions/extensions.json","path":"/home/hooke/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.1","date":"2025-02-10T13:13:58.153Z"}}
+2025-02-13 14:32:35.680 [info] Extension signature verification result for albertopdrf.root-file-viewer: UnknownError. Executed: true. Duration: 9ms.
+2025-02-13 14:32:35.731 [info] Extracted extension to file:///home/hooke/.vscode/extensions/albertopdrf.root-file-viewer-1.4.0: albertopdrf.root-file-viewer
+2025-02-13 14:32:35.736 [info] Renamed to /home/hooke/.vscode/extensions/albertopdrf.root-file-viewer-1.4.0
+2025-02-13 14:32:35.754 [info] Extension installed successfully: albertopdrf.root-file-viewer vscode-userdata:/home/hooke/.vscode/extensions/extensions.json
+2025-02-13 16:36:06.047 [info] Getting Manifest... ms-python.python
+2025-02-13 16:36:06.509 [info] Installing extension: ms-python.python {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hooke/.vscode/extensions/extensions.json","path":"/home/hooke/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.1","date":"2025-02-10T13:13:58.153Z"}}
+2025-02-13 16:36:08.482 [info] Getting Manifest... ms-python.vscode-pylance
+2025-02-13 16:36:08.569 [info] Getting Manifest... ms-python.debugpy
+2025-02-13 16:36:08.676 [info] Installing extension: ms-python.vscode-pylance {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hooke/.vscode/extensions/extensions.json","path":"/home/hooke/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.1","date":"2025-02-10T13:13:58.153Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-02-13 16:36:08.676 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hooke/.vscode/extensions/extensions.json","path":"/home/hooke/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.1","date":"2025-02-10T13:13:58.153Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-02-13 16:36:11.457 [info] Extension signature verification result for ms-python.debugpy: UnknownError. Executed: true. Duration: 16ms.
+2025-02-13 16:36:11.846 [info] Extracted extension to file:///home/hooke/.vscode/extensions/ms-python.debugpy-2025.0.1-linux-x64: ms-python.debugpy
+2025-02-13 16:36:11.864 [info] Renamed to /home/hooke/.vscode/extensions/ms-python.debugpy-2025.0.1-linux-x64
+2025-02-13 16:36:14.624 [info] Extension signature verification result for ms-python.python: UnknownError. Executed: true. Duration: 9ms.
+2025-02-13 16:36:15.566 [info] Extracted extension to file:///home/hooke/.vscode/extensions/ms-python.python-2025.0.0-linux-x64: ms-python.python
+2025-02-13 16:36:15.622 [info] Renamed to /home/hooke/.vscode/extensions/ms-python.python-2025.0.0-linux-x64
+2025-02-13 16:36:15.928 [info] Extension signature verification result for ms-python.vscode-pylance: UnknownError. Executed: true. Duration: 8ms.
+2025-02-13 16:36:18.457 [info] Extracted extension to file:///home/hooke/.vscode/extensions/ms-python.vscode-pylance-2025.2.1: ms-python.vscode-pylance
+2025-02-13 16:36:18.629 [info] Renamed to /home/hooke/.vscode/extensions/ms-python.vscode-pylance-2025.2.1
+2025-02-13 16:36:18.653 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/hooke/.vscode/extensions/extensions.json
+2025-02-13 16:36:18.654 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/hooke/.vscode/extensions/extensions.json
+2025-02-13 16:36:18.654 [info] Extension installed successfully: ms-python.vscode-pylance vscode-userdata:/home/hooke/.vscode/extensions/extensions.json
+2025-02-13 17:04:15.423 [info] Getting Manifest... github.copilot
+2025-02-13 17:04:15.652 [info] Installing extension: github.copilot {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hooke/.vscode/extensions/extensions.json","path":"/home/hooke/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.1","date":"2025-02-10T13:13:58.153Z"}}
+2025-02-13 17:04:17.031 [info] Getting Manifest... github.copilot-chat
+2025-02-13 17:04:17.137 [info] Installing extension: github.copilot-chat {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hooke/.vscode/extensions/extensions.json","path":"/home/hooke/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.1","date":"2025-02-10T13:13:58.153Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-02-13 17:04:20.289 [info] Extension signature verification result for github.copilot-chat: UnknownError. Executed: true. Duration: 7ms.
+2025-02-13 17:04:20.462 [info] Extracted extension to file:///home/hooke/.vscode/extensions/github.copilot-chat-0.24.0: github.copilot-chat
+2025-02-13 17:04:20.475 [info] Renamed to /home/hooke/.vscode/extensions/github.copilot-chat-0.24.0
+2025-02-13 17:04:21.420 [info] Extension signature verification result for github.copilot: UnknownError. Executed: true. Duration: 7ms.
+2025-02-13 17:04:21.694 [info] Extracted extension to file:///home/hooke/.vscode/extensions/github.copilot-1.270.0: github.copilot
+2025-02-13 17:04:21.699 [info] Renamed to /home/hooke/.vscode/extensions/github.copilot-1.270.0
+2025-02-13 17:04:21.733 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/home/hooke/.vscode/extensions/extensions.json
+2025-02-13 17:04:21.733 [info] Extension installed successfully: github.copilot vscode-userdata:/home/hooke/.vscode/extensions/extensions.json

@@ -1,0 +1,17 @@
+2025-02-11 09:39:28 ERROR - failed to create the pid file
+2025-02-11 09:39:28 INFO - [clash]: time="2025-02-11T09:39:28.173730148Z" level=info msg="Start initial configuration in progress"
+2025-02-11 09:39:28 INFO - [clash]: time="2025-02-11T09:39:28.205123794Z" level=info msg="Geodata Loader mode: memconservative"
+2025-02-11 09:39:28 INFO - [clash]: time="2025-02-11T09:39:28.205143150Z" level=info msg="Geosite Matcher implementation: succinct"
+2025-02-11 09:39:28 INFO - [clash]: time="2025-02-11T09:39:28.205826031Z" level=info msg="Load GeoIP rule: cn"
+2025-02-11 09:39:28 INFO - [clash]: time="2025-02-11T09:39:28.212724739Z" level=info msg="Load GeoIP rule: telegram"
+2025-02-11 09:39:28 INFO - [clash]: time="2025-02-11T09:39:28.219430545Z" level=info msg="Finished initial GeoIP rule telegram => Telegram, records: 12"
+2025-02-11 09:39:28 INFO - [clash]: time="2025-02-11T09:39:28.219490618Z" level=info msg="Finished initial GeoIP rule cn => DIRECT, records: 10552"
+2025-02-11 09:39:28 INFO - [clash]: time="2025-02-11T09:39:28.219678490Z" level=info msg="Initial configuration complete, total time: 45ms"
+2025-02-11 09:39:29 INFO - running timer task `r0LItqTq5fWa`
+2025-02-11 09:39:29 ERROR - error sending request for url (https://onlysub.mjurl.com/api/v1/client/subscribe?token=317dbe2e5c4ec8e2f9dc0b843e5c2a4a): error trying to connect: dns error: failed to lookup address information: 域名解析出现暂时性错误
+2025-02-11 10:49:33 INFO - [clash]: time="2025-02-11T10:49:33.206048731Z" level=error msg="台湾-优化 failed to get the second response from http://www.YouTube.com: Head \"http://www.YouTube.com\": context deadline exceeded"
+2025-02-11 10:49:33 INFO - [clash]: time="2025-02-11T10:49:33.206048741Z" level=error msg="台湾-优化2-GPT failed to get the second response from http://www.YouTube.com: Head \"http://www.YouTube.com\": context deadline exceeded"
+2025-02-11 10:59:33 INFO - [clash]: time="2025-02-11T10:59:33.207113052Z" level=error msg="台湾-优化3 failed to get the second response from http://www.YouTube.com: Head \"http://www.YouTube.com\": context deadline exceeded"
+2025-02-11 11:19:33 INFO - [clash]: time="2025-02-11T11:19:33.206391599Z" level=error msg="日本-优化3 failed to get the second response from http://www.YouTube.com: Head \"http://www.YouTube.com\": context deadline exceeded"
+2025-02-11 11:19:33 INFO - [clash]: time="2025-02-11T11:19:33.206415264Z" level=error msg="日本-优化2 failed to get the second response from http://www.YouTube.com: Head \"http://www.YouTube.com\": context deadline exceeded"
+2025-02-11 11:19:33 INFO - [clash]: time="2025-02-11T11:19:33.206435983Z" level=error msg="日本-优化 failed to get the second response from http://www.YouTube.com: Head \"http://www.YouTube.com\": context deadline exceeded"

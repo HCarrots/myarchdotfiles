@@ -1,0 +1,25 @@
+2025-02-14 21:58:53.539 [info] Extension host with pid 3073 started
+2025-02-14 21:58:53.539 [info] Skipping acquiring lock for /home/hooke/.config/Code/User/workspaceStorage/87f9afb426546e7ba42d617faa0a8743.
+2025-02-14 21:58:53.809 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-02-14 21:58:53.810 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-02-14 21:58:53.811 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:cpp'
+2025-02-14 21:58:54.189 [info] Extension host with pid 3129 started
+2025-02-14 21:58:54.189 [info] Skipping acquiring lock for /home/hooke/.config/Code/User/workspaceStorage/87f9afb426546e7ba42d617faa0a8743.
+2025-02-14 21:58:54.228 [info] Eager extensions activated
+2025-02-14 21:58:54.258 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2025-02-14 21:58:54.662 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-02-14 21:58:54.662 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-02-14 21:58:54.663 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-02-14 21:58:54.663 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2025-02-14 21:58:54.687 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-02-14 21:58:54.688 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2025-02-14 21:58:54.690 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-02-14 21:58:54.695 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'api', root cause: ms-vscode.cpptools
+2025-02-14 21:58:55.079 [info] ExtensionService#_doActivateExtension ms-vscode.cmake-tools, startup: true, activationEvent: 'workspaceContains:CMakeLists.txt'
+2025-02-14 21:58:55.473 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-02-14 21:58:55.473 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-02-14 21:58:57.526 [info] Eager extensions activated
+2025-02-14 21:58:57.600 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-02-14 21:58:57.600 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-02-14 21:58:57.601 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-02-14 21:58:57.601 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'

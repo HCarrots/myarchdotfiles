@@ -1,0 +1,401 @@
+2025-02-14 15:19:27.985 [info] Extension host with pid 82204 started
+2025-02-14 15:19:27.985 [info] Skipping acquiring lock for /home/hooke/.config/Code/User/workspaceStorage/87f9afb426546e7ba42d617faa0a8743.
+2025-02-14 15:19:28.105 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-02-14 15:19:28.106 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-02-14 15:19:28.231 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-02-14 15:19:28.233 [info] ExtensionService#_doActivateExtension ms-vscode.cmake-tools, startup: true, activationEvent: 'workspaceContains:CMakeLists.txt'
+2025-02-14 15:19:28.342 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: true, activationEvent: 'workspaceContains:/.vscode/c_cpp_properties.json'
+2025-02-14 15:19:28.418 [info] Extension host with pid 82235 started
+2025-02-14 15:19:28.418 [info] Skipping acquiring lock for /home/hooke/.config/Code/User/workspaceStorage/87f9afb426546e7ba42d617faa0a8743.
+2025-02-14 15:19:28.436 [info] Eager extensions activated
+2025-02-14 15:19:28.478 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2025-02-14 15:19:28.588 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-02-14 15:19:28.588 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-02-14 15:19:28.984 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2025-02-14 15:19:28.988 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-02-14 15:19:28.988 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-02-14 15:19:28.988 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-02-14 15:19:28.989 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2025-02-14 15:19:29.028 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-02-14 15:19:29.052 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'api', root cause: ms-vscode.cpptools
+2025-02-14 15:19:30.325 [info] Eager extensions activated
+2025-02-14 15:19:31.322 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-02-14 15:19:31.322 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-02-14 15:19:31.323 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-02-14 15:19:31.323 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-02-14 15:19:46.824 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2025-02-14 15:19:47.166 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-02-14 15:19:47.167 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2025-02-14 15:30:52.410 [info] ExtensionService#_doActivateExtension albertopdrf.root-file-viewer, startup: false, activationEvent: 'onCustomEditor:rootFileViewer.rootFile'
+2025-02-14 15:33:29.400 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/DetectionEfficiency.dir/compiler_depend.internal.tmp53d76'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 15:33:29.403 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/DetectionEfficiency.dir/compiler_depend.make.tmpe8aeb'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 15:33:29.403 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/DrawEvent.dir/compiler_depend.internal.tmp9d938'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 15:33:29.404 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/DrawEvent.dir/compiler_depend.make.tmpc8b44'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 15:33:29.405 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/DrawWave.dir/compiler_depend.internal.tmp32c73'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 15:33:29.405 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/DrawWave.dir/compiler_depend.make.tmp9a455'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 15:33:29.406 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/Raw2RootMCP_logicB.dir/compiler_depend.internal.tmpb192b'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 15:33:29.406 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/Raw2RootMCP_logicB.dir/compiler_depend.make.tmp8b952'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 15:33:29.407 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/ResultDraw.dir/compiler_depend.internal.tmp4bbaf'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 15:33:29.407 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/ResultDraw.dir/compiler_depend.make.tmpfb76f'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 15:34:21.300 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/BluetWaveFactory.dir/compiler_depend.make.tmp75ab9'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 15:34:21.301 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/BluetWaveFactory.dir/compiler_depend.internal.tmp56cb6'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 15:34:22.465 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/BluetWaveLab.dir/compiler_depend.internal.tmpaf809'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 15:34:22.466 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/BluetWaveLab.dir/compiler_depend.make.tmpb583a'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 15:34:27.477 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/BluetEventFactory.dir/compiler_depend.internal.tmpe3f29'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 15:34:27.478 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/BluetEventFactory.dir/compiler_depend.make.tmp835ac'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 15:34:33.701 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/test_code.dir/compiler_depend.internal.tmpa4bb1'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 15:34:33.702 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/test_code.dir/compiler_depend.make.tmpfa0b6'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 15:46:16.206 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2025-02-14 16:20:01.933 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/DetectionEfficiency.dir/compiler_depend.internal.tmpd8b4a'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 16:20:01.934 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/DetectionEfficiency.dir/compiler_depend.make.tmp20f52'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 16:20:01.934 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/DrawEvent.dir/compiler_depend.internal.tmpdc78e'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 16:20:01.935 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/DrawEvent.dir/compiler_depend.make.tmp2c13d'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 16:20:01.935 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/DrawWave.dir/compiler_depend.internal.tmp37b38'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 16:20:01.935 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/DrawWave.dir/compiler_depend.make.tmp857df'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 16:20:01.935 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/Raw2RootMCP_logicA.dir/compiler_depend.internal.tmp070a6'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 16:20:01.936 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/Raw2RootMCP_logicA.dir/compiler_depend.make.tmp3400f'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 16:20:01.936 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/Raw2RootMCP_logicB.dir/compiler_depend.internal.tmp4672b'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 16:20:01.936 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/Raw2RootMCP_logicB.dir/compiler_depend.make.tmp73e27'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 16:20:01.937 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/ResultDraw.dir/compiler_depend.internal.tmp3f8fd'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 16:20:01.937 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/ResultDraw.dir/compiler_depend.make.tmpaa89a'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 16:20:03.134 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/BluetEventFactory.dir/compiler_depend.internal.tmp24db6'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 16:20:03.134 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/BluetEventFactory.dir/compiler_depend.make.tmp52180'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 16:20:03.134 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/BluetWaveFactory.dir/compiler_depend.internal.tmpc1045'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 16:20:03.135 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/BluetWaveFactory.dir/compiler_depend.make.tmp5b828'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 16:20:03.135 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/BluetWaveLab.dir/compiler_depend.internal.tmpa4653'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 16:20:03.135 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/BluetWaveLab.dir/compiler_depend.make.tmp6deea'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 16:24:02.037 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/BluetWaveFactory.dir/compiler_depend.internal.tmp95100'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 16:24:02.038 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/BluetWaveFactory.dir/compiler_depend.make.tmp5b3bc'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 16:24:02.038 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/BluetWaveLab.dir/compiler_depend.internal.tmpffb06'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 16:24:02.038 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/BluetWaveLab.dir/compiler_depend.make.tmpd5426'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 16:24:02.039 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/DetectionEfficiency.dir/compiler_depend.internal.tmp49650'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 16:24:02.039 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/DetectionEfficiency.dir/compiler_depend.make.tmp0febf'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 16:24:02.039 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/DrawEvent.dir/compiler_depend.internal.tmp8bb32'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 16:24:02.039 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/DrawEvent.dir/compiler_depend.make.tmp68067'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 16:24:02.040 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/DrawWave.dir/compiler_depend.internal.tmp0ac2e'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 16:24:02.040 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/DrawWave.dir/compiler_depend.make.tmp6fce0'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 16:24:02.040 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/Raw2RootMCP_logicA.dir/compiler_depend.internal.tmp700d0'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 16:24:02.040 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/Raw2RootMCP_logicA.dir/compiler_depend.make.tmpef6f8'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 16:24:02.041 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/Raw2RootMCP_logicB.dir/compiler_depend.internal.tmp034a4'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 16:24:02.041 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/Raw2RootMCP_logicB.dir/compiler_depend.make.tmp7cd25'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 16:24:02.041 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/ResultDraw.dir/compiler_depend.internal.tmp72a77'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 16:24:02.041 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hooke/works/wnri-bluet-v5/build/yihBluetWork/CMakeFiles/ResultDraw.dir/compiler_depend.make.tmpfdd0f'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-14 18:44:30.079 [info] ExtensionService#_doActivateExtension ms-vscode.remote-explorer, startup: false, activationEvent: 'onView:remoteTargets'
+2025-02-14 18:44:30.095 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-ssh, startup: false, activationEvent: 'onCommand:remote-internal.getActiveSshRemote'
+2025-02-14 19:10:59.061 [info] Extension host terminating: renderer closed the MessagePort
+2025-02-14 19:10:59.063 [info] Extension host terminating: renderer closed the MessagePort
+2025-02-14 19:10:59.064 [info] Extension host with pid 82235 exiting with code 0
+2025-02-14 19:10:59.111 [error] Canceled: Canceled
+    at new XR (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:110406)
+    at Uy.U (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:115016)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:112510)
+    at mw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:32221)
+    at mw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:31725)
+    at r.registerCommand.description (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:31055)
+    at mw.h (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:32741)
+    at mw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:31818)
+    at mw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:31725)
+    at Object.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:172:37254)
+    at Ah.L [as value] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:997602)
+    at D.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at D.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2443)
+    at D.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2660)
+    at Object.p [as dispose] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1020242)
+    at /opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1026621
+    at Array.forEach (<anonymous>)
+    at b.dispose (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1026607)
+    at cv.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:20084)
+    at cv.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:20180)
+    at cv.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1000086)
+    at cv.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:20180)
+    at ui (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:14992
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at PW.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:11919)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9874
+    at Array.map (<anonymous>)
+    at PW.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9862)
+    at PW.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10105)
+    at wC.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+    at ts (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:190:15080)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:190:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-02-14 19:10:59.113 [error] Canceled: Canceled
+    at new XR (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:110406)
+    at Uy.U (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:115016)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:112510)
+    at mw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:32221)
+    at mw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:31725)
+    at r.registerCommand.description (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:31055)
+    at mw.h (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:32741)
+    at mw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:31818)
+    at mw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:31725)
+    at Object.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:172:37254)
+    at a.VscodeDevShareProvider.set hasGitHubRepositories [as hasGitHubRepositories] (/opt/visual-studio-code/resources/app/extensions/github/dist/extension.js:2:344164)
+    at /opt/visual-studio-code/resources/app/extensions/github/dist/extension.js:2:345123
+    at Ah.value (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1117802)
+    at D.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at D.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2443)
+    at D.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2660)
+    at Object.p [as dispose] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1020242)
+    at /opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1026621
+    at Array.forEach (<anonymous>)
+    at b.dispose (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1026607)
+    at cv.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:20084)
+    at cv.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:20180)
+    at cv.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1000086)
+    at cv.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:20180)
+    at ui (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:14992
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at PW.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:11919)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9874
+    at Array.map (<anonymous>)
+    at PW.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9862)
+    at PW.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10105)
+    at wC.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+    at ts (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:190:15080)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:190:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-02-14 19:10:59.113 [error] Canceled: Canceled
+    at new XR (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:110406)
+    at Uy.U (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:115016)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:112510)
+    at mw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:32221)
+    at mw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:31725)
+    at r.registerCommand.description (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:31055)
+    at mw.h (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:32741)
+    at mw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:31818)
+    at mw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:31725)
+    at Object.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:172:37254)
+    at yO.updateReviewDiffReposContext (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:2283:3294)
+    at yO.updateRepositoryListeners (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:2283:3064)
+    at /home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:2283:2902
+    at Ah.value (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1117802)
+    at D.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at D.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2443)
+    at D.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2660)
+    at Object.p [as dispose] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1020242)
+    at /opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1026621
+    at Array.forEach (<anonymous>)
+    at b.dispose (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1026607)
+    at cv.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:20084)
+    at cv.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:20180)
+    at cv.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1000086)
+    at cv.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:20180)
+    at ui (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:14992
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at PW.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:11919)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9874
+    at Array.map (<anonymous>)
+    at PW.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9862)
+    at PW.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10105)
+    at wC.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+    at ts (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:190:15080)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:190:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-02-14 19:10:59.140 [error] Canceled: Canceled
+    at new XR (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:110406)
+    at Uy.U (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:115016)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:112510)
+    at mw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:32221)
+    at mw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:31725)
+    at r.registerCommand.description (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:31055)
+    at mw.h (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:32741)
+    at mw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:31818)
+    at mw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:31725)
+    at Object.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:172:37254)
+    at t.shutdown (/home/hooke/.vscode/extensions/ms-vscode-remote.remote-ssh-0.117.1/out/extension.js:2:815714)
+    at Object.e.deactivate (/home/hooke/.vscode/extensions/ms-vscode-remote.remote-ssh-0.117.1/out/extension.js:2:1103231)
+    at PW.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:11724)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9874
+    at Array.map (<anonymous>)
+    at PW.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9862)
+    at PW.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10105)
+    at wC.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+    at ts (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:190:15080)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:190:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-02-14 19:10:59.162 [error] Error: Channel has been closed
+    at s (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:2431)
+    at Object.appendLine (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:2570)
+    at D.logOutputMessage (/opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:292566)
+    at D.info (/opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:292299)
+    at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:510402)
+    at ChildProcess.emit (node:events:518:28)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-02-14 19:10:59.163 [error] Error: Channel has been closed
+    at s (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:2431)
+    at Object.appendLine (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:2570)
+    at Object._0x278238.outputChannel.<computed> (/home/hooke/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist/extension.bundle.js:1:229835)
+    at Object._0x278238.outputChannel.<computed> [as appendLine] (/home/hooke/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist/extension.bundle.js:1:229835)
+    at P.logOutputMessage (/home/hooke/.vscode/extensions/ms-python.python-2025.0.0-linux-x64/out/client/extension.js:2:2029405)
+    at P.info (/home/hooke/.vscode/extensions/ms-python.python-2025.0.0-linux-x64/out/client/extension.js:2:2029138)
+    at ChildProcess.<anonymous> (/home/hooke/.vscode/extensions/ms-python.python-2025.0.0-linux-x64/out/client/extension.js:2:2247481)
+    at ChildProcess.emit (node:events:518:28)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-02-14 19:10:59.237 [info] Extension host with pid 82204 exiting with code 0

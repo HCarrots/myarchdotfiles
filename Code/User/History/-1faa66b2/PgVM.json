@@ -1,0 +1,30 @@
+{
+    "files.associations": {
+        "DrawWave.C": "cpp",
+        "vector": "cpp",
+        "DrawEvent_v0.1.C": "cpp",
+        "DrawEvent_v3.0.C": "cpp",
+        "DrawEvent_v4.0.C": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "BluetWaveLab.C": "cpp",
+        "BluetEventFactory.C": "cpp",
+        "BluetWaveFactory.C": "cpp",
+        "BluetLab_v0.1.C": "cpp",
+        "BluetLab.C": "cpp",
+        "BaselineCheck.C": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "span": "cpp",
+        "*.icc": "cpp",
+        "chrono": "cpp",
+        "ranges": "cpp",
+        "variant": "cpp",
+        "LOF.C": "cpp",
+        "TOGamma.C": "cpp",
+        "TimeAligner.C": "cpp",
+        "ResultDraw.C": "cpp",
+        "BluetFactory_v3.0.C": "cpp",
+        "BluetFactory_v3.1.C": "cpp"
+    }
+}

@@ -1,0 +1,20 @@
+2025-02-10 10:37:50 ERROR - failed to create the pid file
+2025-02-10 10:37:50 INFO - [clash]: time="2025-02-10T10:37:50.440616429Z" level=info msg="Start initial configuration in progress"
+2025-02-10 10:37:50 INFO - [clash]: time="2025-02-10T10:37:50.471131222Z" level=info msg="Geodata Loader mode: memconservative"
+2025-02-10 10:37:50 INFO - [clash]: time="2025-02-10T10:37:50.471149207Z" level=info msg="Geosite Matcher implementation: succinct"
+2025-02-10 10:37:50 INFO - [clash]: time="2025-02-10T10:37:50.471736213Z" level=info msg="Load GeoIP rule: cn"
+2025-02-10 10:37:50 INFO - [clash]: time="2025-02-10T10:37:50.478083322Z" level=info msg="Load GeoIP rule: telegram"
+2025-02-10 10:37:50 INFO - [clash]: time="2025-02-10T10:37:50.484394472Z" level=info msg="Finished initial GeoIP rule telegram => Telegram, records: 12"
+2025-02-10 10:37:50 INFO - [clash]: time="2025-02-10T10:37:50.484450100Z" level=info msg="Finished initial GeoIP rule cn => DIRECT, records: 10552"
+2025-02-10 10:37:50 INFO - [clash]: time="2025-02-10T10:37:50.484598146Z" level=info msg="Initial configuration complete, total time: 43ms"
+2025-02-10 10:37:50 INFO - [clash]: time="2025-02-10T10:37:50.486090095Z" level=error msg="Start Mixed(http+socks) server error: listen tcp 127.0.0.1:7890: bind: address already in use"
+2025-02-10 10:39:21 INFO - clash core terminated
+2025-02-10 10:39:22 ERROR - failed to create the pid file
+2025-02-10 10:39:22 INFO - [clash]: time="2025-02-10T10:39:22.175865496Z" level=info msg="Start initial configuration in progress"
+2025-02-10 10:39:22 INFO - [clash]: time="2025-02-10T10:39:22.193276000Z" level=info msg="Geodata Loader mode: memconservative"
+2025-02-10 10:39:22 INFO - [clash]: time="2025-02-10T10:39:22.193298053Z" level=info msg="Geosite Matcher implementation: succinct"
+2025-02-10 10:39:22 INFO - [clash]: time="2025-02-10T10:39:22.193868143Z" level=info msg="Load GeoIP rule: cn"
+2025-02-10 10:39:22 INFO - [clash]: time="2025-02-10T10:39:22.198419608Z" level=info msg="Load GeoIP rule: telegram"
+2025-02-10 10:39:22 INFO - [clash]: time="2025-02-10T10:39:22.199986472Z" level=info msg="Finished initial GeoIP rule telegram => Telegram, records: 12"
+2025-02-10 10:39:22 INFO - [clash]: time="2025-02-10T10:39:22.200044163Z" level=info msg="Finished initial GeoIP rule cn => DIRECT, records: 10552"
+2025-02-10 10:39:22 INFO - [clash]: time="2025-02-10T10:39:22.200213400Z" level=info msg="Initial configuration complete, total time: 24ms"

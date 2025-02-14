@@ -1,0 +1,115 @@
+2025-02-14 16:48:10.516 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-14 16:48:10.516 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-14 16:48:10.516 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-14 16:48:10.516 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-14 16:48:10.707 [info] Started local extension host with pid 118836.
+2025-02-14 16:48:10.967 [info] Invoking resolveAuthority(ssh-remote)...
+2025-02-14 16:48:10.968 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][0ms] obtaining proxy...
+2025-02-14 16:48:11.069 [info] Ignoring configured affinity for 'vscodevim.vim' because extension host(s) are already running. Reload window.
+2025-02-14 16:48:11.087 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][119ms] invoking...
+2025-02-14 16:48:12.092 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][1119ms] waiting...
+2025-02-14 16:48:13.088 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][2119ms] waiting...
+2025-02-14 16:48:14.088 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][3119ms] waiting...
+2025-02-14 16:48:15.088 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][4119ms] waiting...
+2025-02-14 16:48:16.088 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][5119ms] waiting...
+2025-02-14 16:48:17.088 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][6119ms] waiting...
+2025-02-14 16:48:18.088 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][7119ms] waiting...
+2025-02-14 16:48:19.088 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][8119ms] waiting...
+2025-02-14 16:48:20.088 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][9119ms] waiting...
+2025-02-14 16:48:21.088 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][10119ms] waiting...
+2025-02-14 16:48:22.088 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][11119ms] waiting...
+2025-02-14 16:48:23.088 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][12119ms] waiting...
+2025-02-14 16:48:24.088 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][13119ms] waiting...
+2025-02-14 16:48:25.088 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][14119ms] waiting...
+2025-02-14 16:48:26.088 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][15119ms] waiting...
+2025-02-14 16:48:27.088 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][16119ms] waiting...
+2025-02-14 16:48:28.088 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][17119ms] waiting...
+2025-02-14 16:48:29.088 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][18119ms] waiting...
+2025-02-14 16:48:29.881 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][18913ms] returned Managed(1)
+2025-02-14 16:48:29.881 [info] resolveAuthority(ssh-remote) returned 'Managed(1)' after 18914 ms
+2025-02-14 16:48:29.882 [info] Creating a socket (renderer-Management-7b8e1505-ac33-416d-8112-048bb7fd2749)...
+2025-02-14 16:48:29.882 [info] Creating a socket (renderer-ExtensionHost-50786e3e-f150-4aea-9db5-23f9de6fa4eb)...
+2025-02-14 16:48:37.307 [info] Creating a socket (renderer-Management-7b8e1505-ac33-416d-8112-048bb7fd2749) was successful after 7425 ms.
+2025-02-14 16:48:37.308 [info] Creating a socket (renderer-ExtensionHost-50786e3e-f150-4aea-9db5-23f9de6fa4eb) was successful after 7426 ms.
+2025-02-14 16:48:37.871 [info] Placing extension(s) vscodevim.vim on a separate extension host.
+2025-02-14 16:48:38.233 [info] Started local extension host with pid 119021.
+2025-02-14 16:48:38.829 [info] Settings Sync: Token updated for the account a15666004042@163.com
+2025-02-14 16:48:38.831 [info] Settings Sync: Account status changed from uninitialized to available
+2025-02-14 16:48:38.970 [info] [perf] Render performance baseline is 20ms
+2025-02-14 16:48:54.612 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-14 16:48:54.612 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-14 16:48:54.612 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-14 16:48:54.612 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-14 16:48:54.807 [info] Started local extension host with pid 119140.
+2025-02-14 16:48:55.182 [info] Ignoring configured affinity for 'vscodevim.vim' because extension host(s) are already running. Reload window.
+2025-02-14 16:48:55.372 [info] Invoking resolveAuthority(ssh-remote)...
+2025-02-14 16:48:55.372 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][0ms] obtaining proxy...
+2025-02-14 16:48:55.372 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][0ms] invoking...
+2025-02-14 16:48:55.577 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][205ms] returned Managed(1)
+2025-02-14 16:48:55.577 [info] resolveAuthority(ssh-remote) returned 'Managed(1)' after 205 ms
+2025-02-14 16:48:55.577 [info] Creating a socket (renderer-Management-fa0ebe45-c2da-49b9-a11e-2545f8d0eb34)...
+2025-02-14 16:48:55.578 [info] Creating a socket (renderer-ExtensionHost-82dbf8bd-e709-404f-853e-c206d8165f6b)...
+2025-02-14 16:48:55.635 [info] Creating a socket (renderer-Management-fa0ebe45-c2da-49b9-a11e-2545f8d0eb34) was successful after 57 ms.
+2025-02-14 16:48:55.637 [info] Creating a socket (renderer-ExtensionHost-82dbf8bd-e709-404f-853e-c206d8165f6b) was successful after 59 ms.
+2025-02-14 16:48:56.208 [info] Placing extension(s) vscodevim.vim on a separate extension host.
+2025-02-14 16:48:56.445 [info] Started local extension host with pid 119163.
+2025-02-14 16:48:57.038 [info] Settings Sync: Token updated for the account a15666004042@163.com
+2025-02-14 16:48:57.042 [info] Settings Sync: Account status changed from uninitialized to available
+2025-02-14 16:48:57.491 [info] [perf] Render performance baseline is 20ms
+2025-02-14 17:06:47.370 [info] Settings Sync: Token updated for the account a15666004042@163.com
+2025-02-14 17:06:47.374 [info] Settings Sync: Token updated for the account a15666004042@163.com
+2025-02-14 17:17:00.056 [error] 文件似乎是二进制文件，不能作为文本打开: Error: 文件似乎是二进制文件，不能作为文本打开
+    at Tct.M (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3203:9405)
+    at async Tct.readStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3203:9032)
+    at async Zge.Eb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1268:12151)
+    at async Zge.resolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1268:10626)
+    at async Ict.W (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3203:5889)
+    at async Q9e.r (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1268:21104)
+    at async zpt.acquire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:3125)
+    at async Z9e.createModelReference (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1268:22660)
+    at async Promise.all (index 1)
+    at async BCt.c (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:725:21472)
+2025-02-14 17:31:23.281 [error] Error: 此文件未显示在文本编辑器中，因为它非常大(265.13 MB)。
+    at g5 (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:34:737)
+    at Q6 (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:491:82413)
+    at J2e (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:491:77181)
+    at aye.gc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2107:120150)
+    at aye.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2107:119479)
+    at async NFe.U (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:526:19761)
+    at async NFe.M (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:526:18312)
+    at async NFe.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:526:17394)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:638:23634
+    at async vte.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:665:37044)
+2025-02-14 17:47:19.580 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-14 17:47:19.580 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-14 17:47:19.580 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-14 17:47:19.580 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-14 17:47:19.786 [info] Started local extension host with pid 138894.
+2025-02-14 17:47:20.325 [info] Invoking resolveAuthority(ssh-remote)...
+2025-02-14 17:47:20.325 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][0ms] obtaining proxy...
+2025-02-14 17:47:20.325 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][0ms] invoking...
+2025-02-14 17:47:20.477 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][152ms] returned Managed(1)
+2025-02-14 17:47:20.477 [info] resolveAuthority(ssh-remote) returned 'Managed(1)' after 153 ms
+2025-02-14 17:47:20.478 [info] Creating a socket (renderer-Management-513287d9-16e3-47e0-ad0c-7514bbec84eb)...
+2025-02-14 17:47:20.478 [info] Creating a socket (renderer-ExtensionHost-b2d9cef8-c665-482a-babf-60cf6a566faa)...
+2025-02-14 17:47:20.559 [info] Creating a socket (renderer-Management-513287d9-16e3-47e0-ad0c-7514bbec84eb) was successful after 82 ms.
+2025-02-14 17:47:20.562 [info] Creating a socket (renderer-ExtensionHost-b2d9cef8-c665-482a-babf-60cf6a566faa) was successful after 84 ms.
+2025-02-14 17:47:22.686 [info] Settings Sync: Token updated for the account a15666004042@163.com
+2025-02-14 17:47:22.687 [info] Settings Sync: Account status changed from uninitialized to available
+2025-02-14 17:47:23.637 [info] [perf] Render performance baseline is 20ms
+2025-02-14 17:48:07.575 [error] Error: 在 1750ms 后终止了 onWillSaveTextDocument 事件
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:737:10013
+2025-02-14 17:52:08.185 [error] Error: 此文件未显示在文本编辑器中，因为它非常大(15.46 MB)。
+    at g5 (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:34:737)
+    at Q6 (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:491:82413)
+    at J2e (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:491:77181)
+    at aye.gc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2107:120150)
+    at aye.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2107:119479)
+    at async NFe.U (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:526:19761)
+    at async NFe.M (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:526:18312)
+    at async NFe.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:526:17394)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:638:23634
+    at async vte.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:665:37044)
+2025-02-14 18:06:28.363 [info] Ignoring configured affinity for 'vscodevim.vim' because extension host(s) are already running. Reload window.
+2025-02-14 18:07:01.997 [info] Settings Sync: Token updated for the account a15666004042@163.com
+2025-02-14 18:07:02.001 [info] Settings Sync: Token updated for the account a15666004042@163.com

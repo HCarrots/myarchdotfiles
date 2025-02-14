@@ -1,0 +1,40 @@
+2025-02-13 11:34:23.779 [info] Acquired MSAL enablement value from default. Value: true
+2025-02-13 11:34:23.923 [warning] [Thu, 13 Feb 2025 03:34:23 GMT] : [aebc6443-996d-45c2-90f0-388ff96faa56] [https://login.microsoftonline.com/organizations] : @azure/msal-node@2.16.2 : Warning - NativeBroker implementation was provided but the broker is unavailable.
+2025-02-13 11:34:24.083 [info] [getSessions] [all] starting
+2025-02-13 11:34:24.083 [info] [getSessions] [all] returned 1 session(s)
+2025-02-13 11:34:24.083 [info] [getSessions] [all] starting
+2025-02-13 11:34:24.083 [info] [getSessions] [all] returned 1 session(s)
+2025-02-13 11:34:24.084 [info] [getSessions] [email offline_access openid profile] starting
+2025-02-13 11:34:24.086 [info] [getSessions] [email offline_access openid profile] returned 1 session(s)
+2025-02-13 11:34:24.087 [info] [getSessions] [email offline_access openid profile] starting
+2025-02-13 11:34:24.087 [info] [getSessions] [email offline_access openid profile] returned 1 session(s)
+2025-02-13 11:34:24.338 [info] [getSessions] [all] starting
+2025-02-13 11:34:24.338 [info] [getSessions] [all] returned 1 session(s)
+2025-02-13 12:35:52.655 [info] [getSessions] [email offline_access openid profile] starting
+2025-02-13 12:35:53.488 [info] [getSessions] [email offline_access openid profile] returned 1 session(s)
+2025-02-13 12:35:53.489 [info] [getSessions] [email offline_access openid profile] starting
+2025-02-13 12:35:53.490 [info] [getSessions] [email offline_access openid profile] returned 1 session(s)
+2025-02-13 13:39:55.553 [info] [getSessions] [email offline_access openid profile] starting
+2025-02-13 13:39:56.889 [info] [getSessions] [email offline_access openid profile] returned 1 session(s)
+2025-02-13 13:39:56.890 [info] [getSessions] [email offline_access openid profile] starting
+2025-02-13 13:39:56.891 [info] [getSessions] [email offline_access openid profile] returned 1 session(s)
+2025-02-13 14:41:00.341 [info] [getSessions] [email offline_access openid profile] starting
+2025-02-13 14:41:01.436 [info] [getSessions] [email offline_access openid profile] returned 1 session(s)
+2025-02-13 14:41:01.436 [info] [getSessions] [email offline_access openid profile] starting
+2025-02-13 14:41:01.437 [info] [getSessions] [email offline_access openid profile] returned 1 session(s)
+2025-02-13 15:41:20.468 [info] [getSessions] [email offline_access openid profile] starting
+2025-02-13 15:41:21.166 [info] [getSessions] [email offline_access openid profile] returned 1 session(s)
+2025-02-13 15:41:21.166 [info] [getSessions] [email offline_access openid profile] starting
+2025-02-13 15:41:21.167 [info] [getSessions] [email offline_access openid profile] returned 1 session(s)
+2025-02-13 16:41:36.956 [info] [getSessions] [email offline_access openid profile] starting
+2025-02-13 16:41:37.696 [info] [getSessions] [email offline_access openid profile] returned 1 session(s)
+2025-02-13 16:41:37.696 [info] [getSessions] [email offline_access openid profile] starting
+2025-02-13 16:41:37.697 [info] [getSessions] [email offline_access openid profile] returned 1 session(s)
+2025-02-13 17:05:08.734 [info] [getSessions] [email offline_access openid profile] starting
+2025-02-13 17:05:08.735 [info] [getSessions] [email offline_access openid profile] returned 1 session(s)
+2025-02-13 17:05:08.737 [info] [getSessions] [email offline_access openid profile] starting
+2025-02-13 17:05:08.737 [info] [getSessions] [email offline_access openid profile] returned 1 session(s)
+2025-02-13 17:46:32.327 [info] [getSessions] [email offline_access openid profile] starting
+2025-02-13 17:46:33.355 [info] [getSessions] [email offline_access openid profile] returned 1 session(s)
+2025-02-13 17:46:33.356 [info] [getSessions] [email offline_access openid profile] starting
+2025-02-13 17:46:33.357 [info] [getSessions] [email offline_access openid profile] returned 1 session(s)

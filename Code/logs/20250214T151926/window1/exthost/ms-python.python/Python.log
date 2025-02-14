@@ -1,0 +1,15 @@
+2025-02-14 15:19:47.540 [info] 试验“pythonRecommendTensorboardExt”处于活动状态
+2025-02-14 15:19:47.540 [info] 试验“pythonSurveyNotification”处于活动状态
+2025-02-14 15:19:47.540 [info] 试验“pythonTerminalEnvVarActivation”处于活动状态
+2025-02-14 15:19:47.540 [info] 试验“pythonTestAdapter”处于活动状态
+2025-02-14 15:19:47.540 [warning] Dir "/home/hooke/works/wnri-bluet-v5/.pixi/envs" is not watchable (directory does not exist)
+2025-02-14 15:19:47.540 [info] Python 解释器路径: ~/.pyenv/versions/3.12.8/bin/python
+2025-02-14 15:19:47.564 [info] > pyenv which python
+2025-02-14 15:19:47.564 [info] cwd: .
+2025-02-14 15:19:47.733 [info] > ~/.pyenv/versions/3.12.8/bin/python ~/.vscode/extensions/ms-python.python-2025.0.0-linux-x64/python_files/printEnvVariables.py
+2025-02-14 15:19:47.733 [info] shell: fish
+2025-02-14 15:19:47.760 [info] Prepending environment variable PATH in collection with /home/hooke/.pyenv/versions/3.12.8/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-14 15:19:47.761 [info] Send text to terminal: /home/hooke/.pyenv/versions/3.12.8/bin/python /home/hooke/.vscode/extensions/ms-python.python-2025.0.0-linux-x64/python_files/printEnvVariablesToFile.py /home/hooke/.vscode/extensions/ms-python.python-2025.0.0-linux-x64/python_files/deactivate/fish/envVars.txt
+2025-02-14 15:19:57.787 [info] 正在启动 Pylance 语言服务器。
+2025-02-14 16:05:49.545 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/.vscode/settings.json
+2025-02-14 18:43:10.939 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/.vscode/settings.json

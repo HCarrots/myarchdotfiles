@@ -1,0 +1,21 @@
+2025-02-13 19:30:42 ERROR - failed to create the pid file
+2025-02-13 19:30:42 INFO - [clash]: time="2025-02-13T19:30:42.480712400+08:00" level=info msg="Start initial configuration in progress"
+2025-02-13 19:30:42 INFO - running timer task `r0LItqTq5fWa`
+2025-02-13 19:30:42 ERROR - error sending request for url (https://onlysub.mjurl.com/api/v1/client/subscribe?token=317dbe2e5c4ec8e2f9dc0b843e5c2a4a): error trying to connect: dns error: failed to lookup address information: 域名解析出现暂时性错误
+2025-02-13 19:30:42 INFO - [clash]: time="2025-02-13T19:30:42.514715100+08:00" level=info msg="Geodata Loader mode: memconservative"
+2025-02-13 19:30:42 INFO - [clash]: time="2025-02-13T19:30:42.514731551+08:00" level=info msg="Geosite Matcher implementation: succinct"
+2025-02-13 19:30:42 INFO - [clash]: time="2025-02-13T19:30:42.515310336+08:00" level=info msg="Load GeoIP rule: cn"
+2025-02-13 19:30:42 INFO - [clash]: time="2025-02-13T19:30:42.521982337+08:00" level=info msg="Load GeoIP rule: telegram"
+2025-02-13 19:30:42 INFO - [clash]: time="2025-02-13T19:30:42.530707175+08:00" level=info msg="Finished initial GeoIP rule telegram => Telegram, records: 12"
+2025-02-13 19:30:42 INFO - [clash]: time="2025-02-13T19:30:42.530786323+08:00" level=info msg="Finished initial GeoIP rule cn => DIRECT, records: 10552"
+2025-02-13 19:30:42 INFO - [clash]: time="2025-02-13T19:30:42.530957754+08:00" level=info msg="Initial configuration complete, total time: 50ms"
+2025-02-13 19:30:42 INFO - [clash]: time="2025-02-13T19:30:42.538186248+08:00" level=error msg="Start TUN listening error: configure tun interface: operation not permitted"
+2025-02-13 13:30:47 INFO - [clash]: time="2025-02-13T13:30:47.462506089+08:00" level=error msg="香港HKT-HY2 failed to get the second response from http://www.YouTube.com: Head \"http://www.YouTube.com\": context deadline exceeded"
+2025-02-13 14:00:47 INFO - [clash]: time="2025-02-13T14:00:47.462564359+08:00" level=error msg="新加坡SG-HY2 failed to get the second response from http://www.YouTube.com: Head \"http://www.YouTube.com\": context deadline exceeded"
+2025-02-13 14:10:47 INFO - [clash]: time="2025-02-13T14:10:47.463137185+08:00" level=error msg="日本JP-HY2 failed to get the second response from http://www.YouTube.com: Head \"http://www.YouTube.com\": context deadline exceeded"
+2025-02-13 14:55:38 INFO - [clash]: time="2025-02-13T14:55:38.551354554+08:00" level=error msg="Start TUN listening error: configure tun interface: operation not permitted"
+2025-02-13 14:55:44 INFO - [clash]: time="2025-02-13T14:55:44.264810710+08:00" level=error msg="日本-优化3 failed to get the second response from http://www.YouTube.com: Head \"http://www.YouTube.com\": context deadline exceeded"
+2025-02-13 16:05:43 INFO - [clash]: time="2025-02-13T16:05:43.550390064+08:00" level=error msg="日本-优化 failed to get the second response from http://www.YouTube.com: Head \"http://www.YouTube.com\": context deadline exceeded"
+2025-02-13 16:15:47 INFO - [clash]: time="2025-02-13T16:15:47.144742423+08:00" level=error msg="台湾-优化2-GPT failed to get the second response from http://www.YouTube.com: Head \"http://www.YouTube.com\": context deadline exceeded"
+2025-02-13 17:35:45 INFO - [clash]: time="2025-02-13T17:35:45.103463823+08:00" level=error msg="香港WAP-优化2 failed to get the second response from http://www.YouTube.com: Head \"http://www.YouTube.com\": context deadline exceeded"
+2025-02-13 17:55:43 INFO - [clash]: time="2025-02-13T17:55:43.550414046+08:00" level=error msg="台湾-优化3 failed to get the second response from http://www.YouTube.com: Head \"http://www.YouTube.com\": context deadline exceeded"

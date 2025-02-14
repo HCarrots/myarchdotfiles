@@ -1,0 +1,19 @@
+2025-02-13 11:31:20.388 [info] Getting Manifest... ms-vscode.cpptools
+2025-02-13 11:31:20.783 [info] Installing extension: ms-vscode.cpptools {"installPreReleaseVersion":true,"context":{"extensionInstallSource":"command"},"pinned":false,"productVersion":{"version":"1.97.0","date":"2025-02-04T22:41:26.688Z"},"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hooke/.vscode/extensions/extensions.json","path":"/home/hooke/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-02-13 11:31:21.069 [info] Getting Manifest... ms-ceintl.vscode-language-pack-zh-hans
+2025-02-13 11:31:21.748 [info] Installing extension: ms-ceintl.vscode-language-pack-zh-hans {"productVersion":{"version":"1.97.0","date":"2025-02-04T22:41:26.688Z"},"pinned":false,"operation":3,"isApplicationScoped":true,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hooke/.vscode/extensions/extensions.json","path":"/home/hooke/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-02-13 11:31:23.430 [info] Extension signature verification result for ms-ceintl.vscode-language-pack-zh-hans: UnknownError. Executed: true. Duration: 17ms.
+2025-02-13 11:31:23.498 [info] Extracted extension to file:///home/hooke/.vscode/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.97.2025021209: ms-ceintl.vscode-language-pack-zh-hans
+2025-02-13 11:31:23.503 [info] Renamed to /home/hooke/.vscode/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.97.2025021209
+2025-02-13 11:31:23.521 [info] Marked extension as removed ms-ceintl.vscode-language-pack-zh-hans-1.97.2025020509
+2025-02-13 11:31:23.531 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-zh-hans
+2025-02-13 11:31:23.562 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-zh-hans vscode-userdata:/home/hooke/.vscode/extensions/extensions.json
+2025-02-13 11:31:31.447 [info] Extension signature verification result for ms-vscode.cpptools: UnknownError. Executed: true. Duration: 7ms.
+2025-02-13 11:31:33.101 [info] Extracted extension to file:///home/hooke/.vscode/extensions/ms-vscode.cpptools-1.24.0-linux-x64: ms-vscode.cpptools
+2025-02-13 11:31:33.121 [info] Renamed to /home/hooke/.vscode/extensions/ms-vscode.cpptools-1.24.0-linux-x64
+2025-02-13 11:31:33.142 [info] Marked extension as removed ms-vscode.cpptools-1.23.6
+2025-02-13 11:31:33.148 [info] Extension installed successfully: ms-vscode.cpptools vscode-userdata:/home/hooke/.vscode/extensions/extensions.json
+2025-02-13 11:31:54.347 [error] [uncaught exception in sharedProcess]: 发生了系统错误 (ENOENT: no such file or directory, scandir '/home/hooke/.config/Code/clp/5e10987ca24d4d94022b2c496b166799.zh-cn'): Error: ENOENT: no such file or directory, scandir '/home/hooke/.config/Code/clp/5e10987ca24d4d94022b2c496b166799.zh-cn'
+    at async Object.readdir (node:internal/original-fs/promises:950:18)
+    at async Object.Eo (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:30:6875)
+    at async Gc.g (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:32:20637)

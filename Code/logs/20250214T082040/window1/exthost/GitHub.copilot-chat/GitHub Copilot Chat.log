@@ -1,0 +1,23 @@
+2025-02-14 08:20:46.366 [info] Using the Electron fetcher.
+2025-02-14 08:20:46.366 [info] Initializing Git extension service.
+2025-02-14 08:20:46.366 [info] Successfully activated the vscode.git extension.
+2025-02-14 08:20:46.366 [info] Enablement state of the vscode.git extension: true.
+2025-02-14 08:20:46.366 [info] Successfully registered Git commit message provider.
+2025-02-14 08:20:46.837 [info] Logged in as Hesperus-nine
+2025-02-14 08:20:47.953 [info] Got Copilot token for Hesperus-nine
+2025-02-14 08:20:47.996 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-14 08:20:47.996 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-02-14 08:20:48.012 [info] Registering default platform agent...
+2025-02-14 08:20:48.736 [info] Fetched model metadata in 774ms c22e60c7-110b-4e97-8062-b4fda2f555c8
+2025-02-14 08:20:49.145 [info] activationBlocker from 'languageModelAccess' took for 2189ms
+2025-02-14 08:45:47.960 [info] Logged in as Hesperus-nine
+2025-02-14 08:45:49.167 [info] Got Copilot token for Hesperus-nine
+2025-02-14 08:45:49.175 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-14 08:52:30.383 [info] Fetched model metadata in 920ms 71c29395-61bb-4643-ab1c-8a18419fe1ac
+2025-02-14 08:52:31.485 [info] message 0 returned. finish reason: [stop]
+2025-02-14 08:52:31.486 [info] request done: requestId: [ed5e2344-33a0-4225-92ee-fc8429341176] model deployment ID: []
+2025-02-14 09:10:49.174 [info] Logged in as Hesperus-nine
+2025-02-14 09:10:50.458 [info] Got Copilot token for Hesperus-nine
+2025-02-14 09:10:50.466 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-14 09:10:51.386 [info] Fetched model metadata in 917ms 986d4045-a1bf-4259-b759-273873ecf434
+2025-02-14 09:25:52.327 [info] Fetched model metadata in 913ms 47395b21-6133-4568-b42c-c776e640e762

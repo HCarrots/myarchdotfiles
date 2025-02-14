@@ -1,0 +1,1 @@
+./DrawEvent    ~/works/wnri-bluet-v5/output/pic /home/hooke/works/wnri-bluet-v5/output

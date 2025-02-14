@@ -1,0 +1,13 @@
+configuration {
+  timeout {
+      action: "kb-cancel";
+      delay:  0;
+  }
+  filebrowser {
+      directories-first: true;
+      sorting-method:    "name";
+  }
+}
+//@theme "~/.config/rofi/themes/rounded-nord-dark.rasi"
+@theme "~/.config/rofi/themes/rounded-nord-dark.rasi"
+

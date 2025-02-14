@@ -1,0 +1,4 @@
+2025-02-10 02:49:03.069 [info] Started local extension host with pid 32548.
+2025-02-10 02:49:03.101 [info] Started initializing default profile extensions in extensions installation folder. file:///home/hooke/.vscode-oss/extensions
+2025-02-10 02:49:03.239 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/hooke/.vscode-oss/extensions
+2025-02-10 02:49:05.974 [info] [perf] Render performance baseline is 19ms

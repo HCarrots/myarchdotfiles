@@ -1,0 +1,44 @@
+2025-02-14 15:19:48.183 [info] [Info  - 15:19:48] (82953) Server root directory: file:///home/hooke/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-14 15:19:48.183 [info] [Info  - 15:19:48] (82953) Pylance language server 2025.2.1 (pyright version 1.1.393, commit 3763156f) starting
+2025-02-14 15:19:48.184 [info] [Info  - 15:19:48] (82953) Starting service instance "wnri-bluet-v5"
+2025-02-14 15:19:48.218 [info] [Info  - 15:19:48] (82953) Setting environmentName for service "wnri-bluet-v5": "3.12.8 (全局)"
+2025-02-14 15:19:48.218 [info] [Info  - 15:19:48] (82953) Setting pythonPath for service "wnri-bluet-v5": "/home/hooke/.pyenv/versions/3.12.8/bin/python"
+2025-02-14 15:19:48.218 [info] [Info  - 15:19:48] (82953) No include entries specified; assuming /home/hooke/works/wnri-bluet-v5
+2025-02-14 15:19:48.218 [info] [Info  - 15:19:48] (82953) Auto-excluding **/node_modules
+2025-02-14 15:19:48.219 [info] [Info  - 15:19:48] (82953) Auto-excluding **/__pycache__
+2025-02-14 15:19:48.219 [info] [Info  - 15:19:48] (82953) Auto-excluding **/.*
+2025-02-14 15:19:48.240 [info] [Info  - 15:19:48] (82953) Assuming Python version 3.12.8.final.0
+2025-02-14 15:19:48.300 [info] [Info  - 15:19:48] (82953) Found 40 source files
+2025-02-14 15:19:48.763 [info] [Info  - 15:19:48] (82953) Background analysis(1) root directory: file:///home/hooke/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-14 15:19:48.765 [info] [Info  - 15:19:48] (82953) Background analysis(1) started
+2025-02-14 15:19:48.857 [info] [Info  - 15:19:48] (82953) Indexer background runner(2) root directory: file:///home/hooke/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist (index)
+2025-02-14 15:19:48.857 [info] [Info  - 15:19:48] (82953) Indexing(2) started
+2025-02-14 15:19:49.147 [info] [Info  - 15:19:49] (82953) scanned(2) 12 files over 1 exec env
+2025-02-14 15:19:49.296 [info] [Info  - 15:19:49] (82953) indexed(2) 12 files over 1 exec env
+2025-02-14 15:19:49.311 [info] [Info  - 15:19:49] (82953) Indexing finished(2).
+2025-02-14 15:19:53.167 [info] [Info  - 15:19:53] (82953) Found 39 source files
+2025-02-14 15:19:57.787 [info] (Client) The existing extension didn't exit within 10 seconds. New instance will start, but you might encounter issues.
+2025-02-14 15:19:57.787 [info] (Client) Pylance async client (2025.2.1) started with python extension (2025.0.0)
+2025-02-14 16:22:33.961 [info] [Info  - 16:22:33] (82953) Setting environmentName for service "wnri-bluet-v5": "3.12.8 (全局)"
+2025-02-14 16:22:33.962 [info] [Info  - 16:22:33] (82953) Setting pythonPath for service "wnri-bluet-v5": "/home/hooke/.pyenv/versions/3.12.8/bin/python"
+2025-02-14 16:22:33.963 [info] [Info  - 16:22:33] (82953) No include entries specified; assuming /home/hooke/works/wnri-bluet-v5
+2025-02-14 16:22:33.963 [info] [Info  - 16:22:33] (82953) Auto-excluding **/node_modules
+2025-02-14 16:22:33.963 [info] [Info  - 16:22:33] (82953) Auto-excluding **/__pycache__
+2025-02-14 16:22:33.963 [info] [Info  - 16:22:33] (82953) Auto-excluding **/.*
+2025-02-14 16:22:34.003 [info] [Info  - 16:22:34] (82953) Assuming Python version 3.12.8.final.0
+2025-02-14 16:22:34.071 [info] [Info  - 16:22:34] (82953) Found 39 source files
+2025-02-14 16:47:07.440 [info] [Info  - 16:47:07] Server process exited successfully
+2025-02-14 16:47:08.049 [info] (Client) Pylance async client (2025.2.1) started with python extension (2025.0.0)
+2025-02-14 16:47:08.515 [info] [Info  - 16:47:08] (118489) Server root directory: file:///home/hooke/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-14 16:47:08.515 [info] [Info  - 16:47:08] (118489) Pylance language server 2025.2.1 (pyright version 1.1.393, commit 3763156f) starting
+2025-02-14 16:47:08.519 [info] [Info  - 16:47:08] (118489) Starting service instance "wnri-bluet-v5"
+2025-02-14 16:47:08.545 [info] [Info  - 16:47:08] (118489) Setting environmentName for service "wnri-bluet-v5": "3.12.8 (全局)"
+2025-02-14 16:47:08.545 [info] [Info  - 16:47:08] (118489) Setting pythonPath for service "wnri-bluet-v5": "/home/hooke/.pyenv/versions/3.12.8/bin/python"
+2025-02-14 16:47:08.546 [info] [Info  - 16:47:08] (118489) No include entries specified; assuming /home/hooke/works/wnri-bluet-v5
+2025-02-14 16:47:08.546 [info] [Info  - 16:47:08] (118489) Auto-excluding **/node_modules
+2025-02-14 16:47:08.546 [info] [Info  - 16:47:08] (118489) Auto-excluding **/__pycache__
+2025-02-14 16:47:08.546 [info] [Info  - 16:47:08] (118489) Auto-excluding **/.*
+2025-02-14 16:47:08.572 [info] [Info  - 16:47:08] (118489) Assuming Python version 3.12.8.final.0
+2025-02-14 16:47:08.639 [info] [Info  - 16:47:08] (118489) Found 39 source files
+2025-02-14 16:47:09.012 [info] [Info  - 16:47:09] (118489) Background analysis(1) root directory: file:///home/hooke/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-14 16:47:09.014 [info] [Info  - 16:47:09] (118489) Background analysis(1) started

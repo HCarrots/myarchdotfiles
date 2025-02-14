@@ -1,0 +1,77 @@
+2025-02-14 09:48:32.523 [info] 试验“pythonRecommendTensorboardExt”处于活动状态
+2025-02-14 09:48:32.523 [info] 试验“pythonSurveyNotification”处于活动状态
+2025-02-14 09:48:32.523 [info] 试验“pythonTerminalEnvVarActivation”处于活动状态
+2025-02-14 09:48:32.523 [info] 试验“pythonTestAdapter”处于活动状态
+2025-02-14 09:48:32.523 [warning] Dir "/home/hooke/works/wnri-bluet-v5/.pixi/envs" is not watchable (directory does not exist)
+2025-02-14 09:48:32.523 [info] Python 解释器路径: ~/.pyenv/versions/3.12.8/bin/python
+2025-02-14 09:48:32.545 [info] > pyenv which python
+2025-02-14 09:48:32.545 [info] cwd: .
+2025-02-14 09:48:32.731 [info] > ~/.pyenv/versions/3.12.8/bin/python ~/.vscode/extensions/ms-python.python-2025.0.0-linux-x64/python_files/printEnvVariables.py
+2025-02-14 09:48:32.731 [info] shell: fish
+2025-02-14 09:48:32.780 [info] Prepending environment variable PATH in collection with /home/hooke/.pyenv/versions/3.12.8/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-14 09:48:32.781 [info] Send text to terminal: /home/hooke/.pyenv/versions/3.12.8/bin/python /home/hooke/.vscode/extensions/ms-python.python-2025.0.0-linux-x64/python_files/printEnvVariablesToFile.py /home/hooke/.vscode/extensions/ms-python.python-2025.0.0-linux-x64/python_files/deactivate/fish/envVars.txt
+2025-02-14 09:48:33.207 [info] 正在启动 Pylance 语言服务器。
+2025-02-14 10:05:58.197 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 10:06:05.078 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 10:06:20.260 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 10:07:00.689 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 10:07:13.939 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 10:07:42.636 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 10:07:58.779 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 10:08:00.630 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 10:08:23.793 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 10:08:39.350 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:19:20.442 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:22:03.014 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:22:20.041 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:22:21.473 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:22:22.541 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:22:34.499 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:22:41.327 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:22:45.927 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:22:49.005 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:22:51.505 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:22:54.886 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:22:57.013 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:22:58.908 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:23:00.056 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:23:35.755 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:23:37.518 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:24:01.119 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:26:15.333 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:26:17.866 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:26:21.195 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:32:00.403 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:32:02.777 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:32:04.849 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:32:07.110 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:32:10.739 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:32:15.662 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:32:27.837 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:32:30.597 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:32:34.865 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:32:35.934 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:32:37.060 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:32:40.534 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:32:42.301 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:32:43.577 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:32:46.017 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:32:47.925 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:32:52.542 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:32:55.100 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:33:00.092 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:33:01.524 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 14:33:43.618 [info] Discover tests for workspace name: wnri-bluet-v5 - uri: /home/hooke/works/wnri-bluet-v5/Scripts/FactoryWaveTemp.py
+2025-02-14 15:10:00.214 [info] 试验“pythonRecommendTensorboardExt”处于活动状态
+2025-02-14 15:10:00.214 [info] 试验“pythonSurveyNotification”处于活动状态
+2025-02-14 15:10:00.214 [info] 试验“pythonTerminalEnvVarActivation”处于活动状态
+2025-02-14 15:10:00.214 [info] 试验“pythonTestAdapter”处于活动状态
+2025-02-14 15:10:00.214 [warning] Dir "/home/hooke/works/wnri-bluet-v5/.pixi/envs" is not watchable (directory does not exist)
+2025-02-14 15:10:00.215 [info] Python 解释器路径: ~/.pyenv/versions/3.12.8/bin/python
+2025-02-14 15:10:00.808 [info] > pyenv which python
+2025-02-14 15:10:00.808 [info] cwd: .
+2025-02-14 15:10:01.240 [info] > ~/.pyenv/versions/3.12.8/bin/python ~/.vscode/extensions/ms-python.python-2025.0.0-linux-x64/python_files/printEnvVariables.py
+2025-02-14 15:10:01.240 [info] shell: fish
+2025-02-14 15:10:01.280 [info] Prepending environment variable PATH in collection with /home/hooke/.pyenv/versions/3.12.8/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-14 15:10:01.280 [info] Send text to terminal: /home/hooke/.pyenv/versions/3.12.8/bin/python /home/hooke/.vscode/extensions/ms-python.python-2025.0.0-linux-x64/python_files/printEnvVariablesToFile.py /home/hooke/.vscode/extensions/ms-python.python-2025.0.0-linux-x64/python_files/deactivate/fish/envVars.txt
+2025-02-14 15:10:03.288 [info] 正在启动 Pylance 语言服务器。

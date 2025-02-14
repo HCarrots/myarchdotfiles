@@ -1,0 +1,189 @@
+2025-02-14 09:47:24.706 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-14 09:47:24.706 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-14 09:47:24.706 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-14 09:47:24.706 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-14 09:47:24.985 [info] Started local extension host with pid 2137.
+2025-02-14 09:47:25.407 [info] Ignoring configured affinity for 'vscodevim.vim' because extension host(s) are already running. Reload window.
+2025-02-14 09:47:25.427 [info] Placing extension(s) vscodevim.vim on a separate extension host.
+2025-02-14 09:47:25.446 [warning] [twxs.cmake]: 无法注册“cmake.cmakePath”。此属性已注册。
+2025-02-14 09:47:25.695 [info] Started local extension host with pid 2185.
+2025-02-14 09:47:27.610 [info] [perf] Render performance baseline is 19ms
+2025-02-14 09:47:30.113 [error] [Extension Host] [CMakeTools] 2025-02-14T01:47:30.074Z [error] [cmake] CMake Warning (dev) at CMakeLists.txt:15 (find_package):
+2025-02-14 09:47:30.114 [error] [Extension Host] [CMakeTools] 2025-02-14T01:47:30.075Z [error] [cmake]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+2025-02-14 09:47:30.114 [error] [Extension Host] [CMakeTools] 2025-02-14T01:47:30.075Z [error] [cmake]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+2025-02-14 09:47:30.114 [error] [Extension Host] [CMakeTools] 2025-02-14T01:47:30.075Z [error] [cmake]   set the policy and suppress this warning.
+2025-02-14 09:47:30.114 [error] [Extension Host] [CMakeTools] 2025-02-14T01:47:30.076Z [error] [cmake] 
+2025-02-14 09:47:30.114 [error] [Extension Host] [CMakeTools] 2025-02-14T01:47:30.076Z [error] [cmake] This warning is for project developers.  Use -Wno-dev to suppress it.
+2025-02-14 09:47:30.115 [error] [Extension Host] [CMakeTools] 2025-02-14T01:47:30.076Z [error] [cmake] 
+2025-02-14 09:47:30.666 [info] Settings Sync: Token updated for the account a15666004042@163.com
+2025-02-14 09:47:30.669 [info] Settings Sync: Account status changed from uninitialized to available
+2025-02-14 09:49:02.092 [error] [Extension Host] getTestableNode: Unexpected error Error: Unexpected type, expected 'must have seen identifier for symbol kind 'function' (lang: cpp)'
+    at ie (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2521)
+    at Object.Xe (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2972)
+    at async MessagePort.<anonymous> (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:13089)
+2025-02-14 09:49:17.980 [error] [Extension Host] getTestableNode: Unexpected error Error: Unexpected type, expected 'must have seen identifier for symbol kind 'function' (lang: cpp)'
+    at ie (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2521)
+    at Object.Xe (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2972)
+    at async MessagePort.<anonymous> (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:13089)
+2025-02-14 09:49:19.586 [error] [Extension Host] getTestableNode: Unexpected error Error: Unexpected type, expected 'must have seen identifier for symbol kind 'function' (lang: cpp)'
+    at ie (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2521)
+    at Object.Xe (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2972)
+    at async MessagePort.<anonymous> (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:13089)
+2025-02-14 09:49:20.659 [error] [Extension Host] getTestableNode: Unexpected error Error: Unexpected type, expected 'must have seen identifier for symbol kind 'function' (lang: cpp)'
+    at ie (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2521)
+    at Object.Xe (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2972)
+    at async MessagePort.<anonymous> (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:13089)
+2025-02-14 09:50:10.448 [error] [Extension Host] getTestableNode: Unexpected error Error: Unexpected type, expected 'must have seen identifier for symbol kind 'function' (lang: cpp)'
+    at ie (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2521)
+    at Object.Xe (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2972)
+    at async MessagePort.<anonymous> (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:13089)
+2025-02-14 09:50:13.142 [error] [Extension Host] getTestableNode: Unexpected error Error: Unexpected type, expected 'must have seen identifier for symbol kind 'function' (lang: cpp)'
+    at ie (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2521)
+    at Object.Xe (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2972)
+    at async MessagePort.<anonymous> (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:13089)
+2025-02-14 09:50:16.176 [error] [Extension Host] getTestableNode: Unexpected error Error: Unexpected type, expected 'must have seen identifier for symbol kind 'function' (lang: cpp)'
+    at ie (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2521)
+    at Object.Xe (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2972)
+    at async MessagePort.<anonymous> (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:13089)
+2025-02-14 09:50:19.510 [error] [Extension Host] getTestableNode: Unexpected error Error: Unexpected type, expected 'must have seen identifier for symbol kind 'function' (lang: cpp)'
+    at ie (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2521)
+    at Object.Xe (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2972)
+    at async MessagePort.<anonymous> (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:13089)
+2025-02-14 09:50:20.237 [error] [Extension Host] getTestableNode: Unexpected error Error: Unexpected type, expected 'must have seen identifier for symbol kind 'function' (lang: cpp)'
+    at ie (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2521)
+    at Object.Xe (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2972)
+    at async MessagePort.<anonymous> (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:13089)
+2025-02-14 09:50:21.324 [error] [Extension Host] getTestableNode: Unexpected error Error: Unexpected type, expected 'must have seen identifier for symbol kind 'function' (lang: cpp)'
+    at ie (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2521)
+    at Object.Xe (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2972)
+    at async MessagePort.<anonymous> (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:13089)
+2025-02-14 09:50:21.749 [error] [Extension Host] getTestableNode: Unexpected error Error: Unexpected type, expected 'must have seen identifier for symbol kind 'function' (lang: cpp)'
+    at ie (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2521)
+    at Object.Xe (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2972)
+    at async MessagePort.<anonymous> (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:13089)
+2025-02-14 09:50:23.980 [error] [Extension Host] getTestableNode: Unexpected error Error: Unexpected type, expected 'must have seen identifier for symbol kind 'function' (lang: cpp)'
+    at ie (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2521)
+    at Object.Xe (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2972)
+    at async MessagePort.<anonymous> (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:13089)
+2025-02-14 09:50:24.539 [error] [Extension Host] getTestableNode: Unexpected error Error: Unexpected type, expected 'must have seen identifier for symbol kind 'function' (lang: cpp)'
+    at ie (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2521)
+    at Object.Xe (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2972)
+    at async MessagePort.<anonymous> (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:13089)
+2025-02-14 09:50:25.588 [error] [Extension Host] getTestableNode: Unexpected error Error: Unexpected type, expected 'must have seen identifier for symbol kind 'function' (lang: cpp)'
+    at ie (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2521)
+    at Object.Xe (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2972)
+    at async MessagePort.<anonymous> (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:13089)
+2025-02-14 09:50:26.395 [error] [Extension Host] getTestableNode: Unexpected error Error: Unexpected type, expected 'must have seen identifier for symbol kind 'function' (lang: cpp)'
+    at ie (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2521)
+    at Object.Xe (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2972)
+    at async MessagePort.<anonymous> (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:13089)
+2025-02-14 09:50:28.468 [error] [Extension Host] getTestableNode: Unexpected error Error: Unexpected type, expected 'must have seen identifier for symbol kind 'function' (lang: cpp)'
+    at ie (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2521)
+    at Object.Xe (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2972)
+    at async MessagePort.<anonymous> (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:13089)
+2025-02-14 09:50:30.683 [error] [Extension Host] getTestableNode: Unexpected error Error: Unexpected type, expected 'must have seen identifier for symbol kind 'function' (lang: cpp)'
+    at ie (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2521)
+    at Object.Xe (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2972)
+    at async MessagePort.<anonymous> (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:13089)
+2025-02-14 09:50:33.730 [error] [Extension Host] getTestableNode: Unexpected error Error: Unexpected type, expected 'must have seen identifier for symbol kind 'function' (lang: cpp)'
+    at ie (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2521)
+    at Object.Xe (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2972)
+    at async MessagePort.<anonymous> (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:13089)
+2025-02-14 09:50:34.819 [error] [Extension Host] getTestableNode: Unexpected error Error: Unexpected type, expected 'must have seen identifier for symbol kind 'function' (lang: cpp)'
+    at ie (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2521)
+    at Object.Xe (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2972)
+    at async MessagePort.<anonymous> (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:13089)
+2025-02-14 09:50:35.266 [error] [Extension Host] getTestableNode: Unexpected error Error: Unexpected type, expected 'must have seen identifier for symbol kind 'function' (lang: cpp)'
+    at ie (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2521)
+    at Object.Xe (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2972)
+    at async MessagePort.<anonymous> (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:13089)
+2025-02-14 09:50:35.690 [error] [Extension Host] getTestableNode: Unexpected error Error: Unexpected type, expected 'must have seen identifier for symbol kind 'function' (lang: cpp)'
+    at ie (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2521)
+    at Object.Xe (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2972)
+    at async MessagePort.<anonymous> (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:13089)
+2025-02-14 09:50:36.217 [error] [Extension Host] getTestableNode: Unexpected error Error: Unexpected type, expected 'must have seen identifier for symbol kind 'function' (lang: cpp)'
+    at ie (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2521)
+    at Object.Xe (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2972)
+    at async MessagePort.<anonymous> (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:13089)
+2025-02-14 09:50:36.587 [error] [Extension Host] getTestableNode: Unexpected error Error: Unexpected type, expected 'must have seen identifier for symbol kind 'function' (lang: cpp)'
+    at ie (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2521)
+    at Object.Xe (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2972)
+    at async MessagePort.<anonymous> (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:13089)
+2025-02-14 09:50:36.953 [error] [Extension Host] getTestableNode: Unexpected error Error: Unexpected type, expected 'must have seen identifier for symbol kind 'function' (lang: cpp)'
+    at ie (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2521)
+    at Object.Xe (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2972)
+    at async MessagePort.<anonymous> (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:13089)
+2025-02-14 09:50:37.410 [error] [Extension Host] getTestableNode: Unexpected error Error: Unexpected type, expected 'must have seen identifier for symbol kind 'function' (lang: cpp)'
+    at ie (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2521)
+    at Object.Xe (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2972)
+    at async MessagePort.<anonymous> (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:13089)
+2025-02-14 09:50:38.153 [error] [Extension Host] getTestableNode: Unexpected error Error: Unexpected type, expected 'must have seen identifier for symbol kind 'function' (lang: cpp)'
+    at ie (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2521)
+    at Object.Xe (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2972)
+    at async MessagePort.<anonymous> (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:13089)
+2025-02-14 09:50:39.937 [error] [Extension Host] getTestableNode: Unexpected error Error: Unexpected type, expected 'must have seen identifier for symbol kind 'function' (lang: cpp)'
+    at ie (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2521)
+    at Object.Xe (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2972)
+    at async MessagePort.<anonymous> (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:13089)
+2025-02-14 09:50:41.552 [error] [Extension Host] getTestableNode: Unexpected error Error: Unexpected type, expected 'must have seen identifier for symbol kind 'function' (lang: cpp)'
+    at ie (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2521)
+    at Object.Xe (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2972)
+    at async MessagePort.<anonymous> (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:13089)
+2025-02-14 09:50:43.746 [error] [Extension Host] getTestableNode: Unexpected error Error: Unexpected type, expected 'must have seen identifier for symbol kind 'function' (lang: cpp)'
+    at ie (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2521)
+    at Object.Xe (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2972)
+    at async MessagePort.<anonymous> (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:13089)
+2025-02-14 09:50:45.196 [error] [Extension Host] getTestableNode: Unexpected error Error: Unexpected type, expected 'must have seen identifier for symbol kind 'function' (lang: cpp)'
+    at ie (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2521)
+    at Object.Xe (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2972)
+    at async MessagePort.<anonymous> (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:13089)
+2025-02-14 09:50:45.495 [error] [Extension Host] getTestableNode: Unexpected error Error: Unexpected type, expected 'must have seen identifier for symbol kind 'function' (lang: cpp)'
+    at ie (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2521)
+    at Object.Xe (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2972)
+    at async MessagePort.<anonymous> (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:13089)
+2025-02-14 14:03:10.700 [info] Settings Sync: Token updated for the account a15666004042@163.com
+2025-02-14 14:03:10.701 [info] Settings Sync: Token updated for the account a15666004042@163.com
+2025-02-14 14:28:25.458 [error] TreeError [DebugRepl] Tree input not set: Error: TreeError [DebugRepl] Tree input not set
+    at xf.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:412:29043)
+    at xf.updateChildren (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:412:28950)
+    at wte.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2036:33515)
+    at x.B (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at x.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2462)
+    at x.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2680)
+    at uwe.setVisible (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:521:2801)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:749:11857
+    at Array.map (<anonymous>)
+    at Qh.setVisible (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:749:11848)
+2025-02-14 14:32:10.996 [error] [Extension Host] [default] Error sending telemetry FetchError: read ECONNRESET
+    at fetch (/home/hooke/.vscode/extensions/github.copilot-1.271.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/hooke/.vscode/extensions/github.copilot-1.271.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at Rce.fetch (/home/hooke/.vscode/extensions/github.copilot-1.271.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ECONNRESET',
+  errno: -104,
+  erroredSysCall: 'read'
+}
+2025-02-14 15:03:25.336 [info] Settings Sync: Token updated for the account a15666004042@163.com
+2025-02-14 15:03:25.337 [info] Settings Sync: Token updated for the account a15666004042@163.com
+2025-02-14 15:08:12.153 [error] [Extension Host] getTestableNode: Unexpected error Error: Unexpected type, expected 'must have seen identifier for symbol kind 'function' (lang: cpp)'
+    at ie (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2521)
+    at Object.Xe (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:2972)
+    at async MessagePort.<anonymous> (/home/hooke/.vscode/extensions/github.copilot-chat-0.24.1/dist/worker2.js:641:13089)
+2025-02-14 15:09:58.246 [info] Started local extension host with pid 35601.
+2025-02-14 15:09:58.247 [info] Started local extension host with pid 35602.
+2025-02-14 15:10:00.635 [error] No registered selector for ID: ms-vscode.npm-command
+2025-02-14 15:10:01.189 [info] Settings Sync: Token updated for the account a15666004042@163.com
+2025-02-14 15:10:03.547 [error] [Extension Host] [CMakeTools] 2025-02-14T07:10:03.513Z [error] [cmake] CMake Warning (dev) at CMakeLists.txt:15 (find_package):
+2025-02-14 15:10:03.547 [error] [Extension Host] [CMakeTools] 2025-02-14T07:10:03.513Z [error] [cmake]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+2025-02-14 15:10:03.548 [error] [Extension Host] [CMakeTools] 2025-02-14T07:10:03.513Z [error] [cmake]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+2025-02-14 15:10:03.548 [error] [Extension Host] [CMakeTools] 2025-02-14T07:10:03.513Z [error] [cmake]   set the policy and suppress this warning.
+2025-02-14 15:10:03.548 [error] [Extension Host] [CMakeTools] 2025-02-14T07:10:03.513Z [error] [cmake] 
+2025-02-14 15:10:03.549 [error] [Extension Host] [CMakeTools] 2025-02-14T07:10:03.514Z [error] [cmake] This warning is for project developers.  Use -Wno-dev to suppress it.
+2025-02-14 15:10:03.549 [error] [Extension Host] [CMakeTools] 2025-02-14T07:10:03.514Z [error] [cmake] 
+2025-02-14 15:10:04.079 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2025-02-14 15:10:04.079 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2025-02-14 15:10:04.101 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2025-02-14 15:10:04.102 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess
+2025-02-14 15:10:29.399 [warning] [backup tracker] suspended, ignoring unregister event file:///home/hooke/works/wnri-bluet-v5/.vscode/c_cpp_properties.json 

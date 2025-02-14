@@ -1,0 +1,44 @@
+2025-02-14 15:19:32.207 [info] Using the Electron fetcher.
+2025-02-14 15:19:32.207 [info] Initializing Git extension service.
+2025-02-14 15:19:32.207 [info] Successfully activated the vscode.git extension.
+2025-02-14 15:19:32.207 [info] Enablement state of the vscode.git extension: true.
+2025-02-14 15:19:32.207 [info] Successfully registered Git commit message provider.
+2025-02-14 15:19:32.363 [info] Logged in as Hesperus-nine
+2025-02-14 15:19:33.450 [info] Got Copilot token for Hesperus-nine
+2025-02-14 15:19:33.494 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-14 15:19:33.494 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-02-14 15:19:33.509 [info] Registering default platform agent...
+2025-02-14 15:19:34.628 [info] Fetched model metadata in 1169ms 9607cc7e-e1fa-4a00-8132-aeb693986dd5
+2025-02-14 15:19:34.670 [info] activationBlocker from 'languageModelAccess' took for 1799ms
+2025-02-14 15:44:33.459 [info] Logged in as Hesperus-nine
+2025-02-14 15:44:34.602 [info] Got Copilot token for Hesperus-nine
+2025-02-14 15:44:34.615 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-14 15:44:35.692 [info] Fetched model metadata in 1064ms a3febea1-2977-4d0f-8fe0-a1029d60c622
+2025-02-14 16:09:34.608 [info] Logged in as Hesperus-nine
+2025-02-14 16:09:35.735 [info] Got Copilot token for Hesperus-nine
+2025-02-14 16:09:35.742 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-14 16:09:40.606 [info] Fetched model metadata in 4862ms 6a9e3f80-50ca-476c-9d0f-fe39ae9939d5
+2025-02-14 16:24:44.777 [info] Fetched model metadata in 1120ms 7806c159-4861-4157-846a-b8f90fffb411
+2025-02-14 16:34:35.739 [info] Logged in as Hesperus-nine
+2025-02-14 16:34:36.863 [info] Got Copilot token for Hesperus-nine
+2025-02-14 16:34:36.869 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-14 16:59:36.870 [info] Logged in as Hesperus-nine
+2025-02-14 16:59:37.988 [info] Got Copilot token for Hesperus-nine
+2025-02-14 16:59:37.995 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-14 17:24:37.994 [info] Logged in as Hesperus-nine
+2025-02-14 17:24:39.146 [info] Got Copilot token for Hesperus-nine
+2025-02-14 17:24:39.152 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-14 17:49:39.152 [info] Logged in as Hesperus-nine
+2025-02-14 17:49:40.235 [info] Got Copilot token for Hesperus-nine
+2025-02-14 17:49:40.243 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-14 18:14:40.240 [info] Logged in as Hesperus-nine
+2025-02-14 18:14:41.374 [info] Got Copilot token for Hesperus-nine
+2025-02-14 18:14:41.381 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-14 18:29:43.346 [info] Fetched model metadata in 1959ms eeed3687-3a84-4b2f-b269-e206655570c0
+2025-02-14 18:39:41.380 [info] Logged in as Hesperus-nine
+2025-02-14 18:39:42.573 [info] Got Copilot token for Hesperus-nine
+2025-02-14 18:39:42.579 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-14 19:04:42.577 [info] Logged in as Hesperus-nine
+2025-02-14 19:04:43.705 [info] Got Copilot token for Hesperus-nine
+2025-02-14 19:04:43.712 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-14 19:04:44.833 [info] Fetched model metadata in 1119ms 10fb10db-4788-4efa-b29b-e9d27732399a

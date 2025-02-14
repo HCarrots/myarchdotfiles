@@ -1,0 +1,18 @@
+2025-02-10 02:41:41 ERROR - failed to create the pid file
+2025-02-10 02:41:41 INFO - [clash]: =info msg="RESTful API listening at: 127.0.0.1:9090"
+2025-02-10 02:41:41 INFO - [clash]: =info msg="inbound mixed://127.0.0.1:7890 create success."
+2025-02-10 02:42:06 ERROR - proxy 5: unsupport proxy type: hysteria2
+2025-02-10 02:42:08 ERROR - proxy 5: unsupport proxy type: hysteria2
+2025-02-10 02:42:17 ERROR - proxy 5: unsupport proxy type: hysteria2
+2025-02-10 02:42:18 ERROR - proxy 5: unsupport proxy type: hysteria2
+2025-02-10 02:42:23 ERROR - proxy 5: unsupport proxy type: hysteria2
+2025-02-10 02:42:51 ERROR - proxy 5: unsupport proxy type: hysteria2
+2025-02-10 02:42:56 ERROR - proxy 5: unsupport proxy type: hysteria2
+2025-02-10 02:42:57 ERROR - proxy 5: unsupport proxy type: hysteria2
+2025-02-10 02:43:00 ERROR - proxy 5: unsupport proxy type: hysteria2
+2025-02-10 02:43:22 ERROR - proxy 5: unsupport proxy type: hysteria2
+2025-02-10 02:43:32 ERROR - proxy 5: unsupport proxy type: hysteria2
+2025-02-10 02:43:38 ERROR - proxy 5: unsupport proxy type: hysteria2
+2025-02-10 02:43:53 ERROR - proxy 5: unsupport proxy type: hysteria2
+2025-02-10 02:45:59 INFO - reset proxy with no action
+2025-02-10 02:45:59 INFO - clash core terminated

@@ -1,0 +1,12 @@
+2025-02-10 09:01:13 ERROR - failed to create the pid file
+2025-02-10 09:01:13 INFO - [clash]: time="2025-02-10T09:01:13.555209128Z" level=info msg="Start initial configuration in progress"
+2025-02-10 09:01:13 INFO - [clash]: time="2025-02-10T09:01:13.574729981Z" level=info msg="Geodata Loader mode: memconservative"
+2025-02-10 09:01:13 INFO - [clash]: time="2025-02-10T09:01:13.574752453Z" level=info msg="Geosite Matcher implementation: succinct"
+2025-02-10 09:01:13 INFO - [clash]: time="2025-02-10T09:01:13.575356023Z" level=info msg="Load GeoIP rule: cn"
+2025-02-10 09:01:13 INFO - [clash]: time="2025-02-10T09:01:13.579624964Z" level=info msg="Load GeoIP rule: telegram"
+2025-02-10 09:01:13 INFO - [clash]: time="2025-02-10T09:01:13.581366663Z" level=info msg="Finished initial GeoIP rule telegram => Telegram, records: 12"
+2025-02-10 09:01:13 INFO - [clash]: time="2025-02-10T09:01:13.581440002Z" level=info msg="Finished initial GeoIP rule cn => DIRECT, records: 10552"
+2025-02-10 09:01:13 INFO - [clash]: time="2025-02-10T09:01:13.581676168Z" level=info msg="Initial configuration complete, total time: 26ms"
+2025-02-10 09:01:18 INFO - [clash]: time="2025-02-10T09:01:18.585824490Z" level=error msg="台湾-优化3 failed to get the second response from http://www.YouTube.com: Head \"http://www.YouTube.com\": context deadline exceeded"
+2025-02-10 09:01:18 INFO - [clash]: time="2025-02-10T09:01:18.585875917Z" level=error msg="台湾-优化 failed to get the second response from http://www.YouTube.com: Head \"http://www.YouTube.com\": context deadline exceeded"
+2025-02-10 09:01:18 INFO - [clash]: time="2025-02-10T09:01:18.585883812Z" level=error msg="台湾-优化2-GPT failed to get the second response from http://www.YouTube.com: Head \"http://www.YouTube.com\": context deadline exceeded"

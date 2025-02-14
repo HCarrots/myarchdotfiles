@@ -1,0 +1,24 @@
+2025-02-14 15:19:27.856 [info] Marked extension as removed ms-vscode.cpptools-1.24.0
+2025-02-14 15:19:27.897 [info] Deleted marked for removal extension from disk ms-vscode.cpptools /home/hooke/.vscode/extensions/ms-vscode.cpptools-1.24.0-linux-x64
+2025-02-14 16:47:04.376 [info] Getting Manifest... ms-vscode-remote.remote-ssh
+2025-02-14 16:47:04.597 [info] Installing extension: ms-vscode-remote.remote-ssh {"isMachineScoped":false,"donotIncludePackAndDependencies":false,"context":{"skipWalkthrough":true},"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hooke/.vscode/extensions/extensions.json","path":"/home/hooke/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-14 16:47:05.572 [info] Getting Manifest... ms-vscode-remote.remote-ssh-edit
+2025-02-14 16:47:05.645 [info] Getting Manifest... ms-vscode.remote-explorer
+2025-02-14 16:47:05.984 [info] Installing extension: ms-vscode-remote.remote-ssh-edit {"isMachineScoped":false,"donotIncludePackAndDependencies":false,"context":{"skipWalkthrough":true,"dependecyOrPackExtensionInstall":true},"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hooke/.vscode/extensions/extensions.json","path":"/home/hooke/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-14 16:47:05.985 [info] Installing extension: ms-vscode.remote-explorer {"isMachineScoped":false,"donotIncludePackAndDependencies":false,"context":{"skipWalkthrough":true,"dependecyOrPackExtensionInstall":true},"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hooke/.vscode/extensions/extensions.json","path":"/home/hooke/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-14 16:47:06.836 [info] Extension signature verification result for ms-vscode.remote-explorer: UnknownError. Executed: true. Duration: 15ms.
+2025-02-14 16:47:06.859 [info] Extension signature verification result for ms-vscode-remote.remote-ssh-edit: UnknownError. Executed: true. Duration: 8ms.
+2025-02-14 16:47:06.877 [info] Extracted extension to file:///home/hooke/.vscode/extensions/ms-vscode.remote-explorer-0.4.3: ms-vscode.remote-explorer
+2025-02-14 16:47:06.883 [info] Renamed to /home/hooke/.vscode/extensions/ms-vscode.remote-explorer-0.4.3
+2025-02-14 16:47:06.904 [info] Extracted extension to file:///home/hooke/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.87.0: ms-vscode-remote.remote-ssh-edit
+2025-02-14 16:47:06.906 [info] Renamed to /home/hooke/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.87.0
+2025-02-14 16:47:07.199 [info] Extension signature verification result for ms-vscode-remote.remote-ssh: UnknownError. Executed: true. Duration: 8ms.
+2025-02-14 16:47:07.281 [info] Extracted extension to file:///home/hooke/.vscode/extensions/ms-vscode-remote.remote-ssh-0.117.1: ms-vscode-remote.remote-ssh
+2025-02-14 16:47:07.287 [info] Renamed to /home/hooke/.vscode/extensions/ms-vscode-remote.remote-ssh-0.117.1
+2025-02-14 16:47:07.313 [info] Extension installed successfully: ms-vscode.remote-explorer vscode-userdata:/home/hooke/.vscode/extensions/extensions.json
+2025-02-14 16:47:07.313 [info] Extension installed successfully: ms-vscode-remote.remote-ssh-edit vscode-userdata:/home/hooke/.vscode/extensions/extensions.json
+2025-02-14 16:47:07.313 [info] Extension installed successfully: ms-vscode-remote.remote-ssh vscode-userdata:/home/hooke/.vscode/extensions/extensions.json
+2025-02-14 16:48:43.281 [info] Getting Manifest... ms-ceintl.vscode-language-pack-zh-hans
+2025-02-14 16:48:44.032 [info] Installing extension: ms-ceintl.vscode-language-pack-zh-hans {"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"},"pinned":false,"operation":3,"isApplicationScoped":true,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hooke/.vscode/extensions/extensions.json","path":"/home/hooke/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-02-14 16:48:44.106 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-zh-hans
+2025-02-14 16:48:44.129 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-zh-hans vscode-userdata:/home/hooke/.vscode/extensions/extensions.json

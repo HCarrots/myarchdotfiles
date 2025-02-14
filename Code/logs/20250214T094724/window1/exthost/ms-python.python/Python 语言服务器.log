@@ -1,0 +1,39 @@
+2025-02-14 09:48:33.181 [info] [Info  - 09:48:33] (3246) Server root directory: file:///home/hooke/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-14 09:48:33.188 [info] [Info  - 09:48:33] (3246) Pylance language server 2025.2.1 (pyright version 1.1.393, commit 3763156f) starting
+2025-02-14 09:48:33.193 [info] [Info  - 09:48:33] (3246) Starting service instance "wnri-bluet-v5"
+2025-02-14 09:48:33.194 [info] (Client) Pylance async client (2025.2.1) started with python extension (2025.0.0)
+2025-02-14 09:48:33.234 [info] [Info  - 09:48:33] (3246) Setting environmentName for service "wnri-bluet-v5": "3.12.8 (全局)"
+2025-02-14 09:48:33.234 [info] [Info  - 09:48:33] (3246) Setting pythonPath for service "wnri-bluet-v5": "/home/hooke/.pyenv/versions/3.12.8/bin/python"
+2025-02-14 09:48:33.234 [info] [Info  - 09:48:33] (3246) No include entries specified; assuming /home/hooke/works/wnri-bluet-v5
+2025-02-14 09:48:33.234 [info] [Info  - 09:48:33] (3246) Auto-excluding **/node_modules
+2025-02-14 09:48:33.235 [info] [Info  - 09:48:33] (3246) Auto-excluding **/__pycache__
+2025-02-14 09:48:33.235 [info] [Info  - 09:48:33] (3246) Auto-excluding **/.*
+2025-02-14 09:48:33.261 [info] [Info  - 09:48:33] (3246) Assuming Python version 3.12.8.final.0
+2025-02-14 09:48:33.350 [info] [Info  - 09:48:33] (3246) Found 39 source files
+2025-02-14 09:48:33.790 [info] [Info  - 09:48:33] (3246) Background analysis(1) root directory: file:///home/hooke/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-14 09:48:33.792 [info] [Info  - 09:48:33] (3246) Background analysis(1) started
+2025-02-14 09:48:33.912 [info] [Info  - 09:48:33] (3246) Indexer background runner(2) root directory: file:///home/hooke/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist (index)
+2025-02-14 09:48:33.912 [info] [Info  - 09:48:33] (3246) Indexing(2) started
+2025-02-14 09:48:34.245 [info] [Info  - 09:48:34] (3246) scanned(2) 12 files over 1 exec env
+2025-02-14 09:48:34.395 [info] [Info  - 09:48:34] (3246) indexed(2) 12 files over 1 exec env
+2025-02-14 09:48:34.408 [info] [Info  - 09:48:34] (3246) Indexing finished(2).
+2025-02-14 10:05:34.725 [info] [Info  - 10:05:34] (3246) Found 40 source files
+2025-02-14 15:10:01.491 [info] (Client) Pylance async client (2025.2.1) started with python extension (2025.0.0)
+2025-02-14 15:10:03.183 [info] [Info  - 15:10:03] (36021) Server root directory: file:///home/hooke/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-14 15:10:03.231 [info] [Info  - 15:10:03] (36021) Pylance language server 2025.2.1 (pyright version 1.1.393, commit 3763156f) starting
+2025-02-14 15:10:03.274 [info] [Info  - 15:10:03] (36021) Starting service instance "wnri-bluet-v5"
+2025-02-14 15:10:03.404 [info] [Info  - 15:10:03] (36021) Setting environmentName for service "wnri-bluet-v5": "3.12.8 (全局)"
+2025-02-14 15:10:03.405 [info] [Info  - 15:10:03] (36021) Setting pythonPath for service "wnri-bluet-v5": "/home/hooke/.pyenv/versions/3.12.8/bin/python"
+2025-02-14 15:10:03.405 [info] [Info  - 15:10:03] (36021) No include entries specified; assuming /home/hooke/works/wnri-bluet-v5
+2025-02-14 15:10:03.405 [info] [Info  - 15:10:03] (36021) Auto-excluding **/node_modules
+2025-02-14 15:10:03.405 [info] [Info  - 15:10:03] (36021) Auto-excluding **/__pycache__
+2025-02-14 15:10:03.406 [info] [Info  - 15:10:03] (36021) Auto-excluding **/.*
+2025-02-14 15:10:03.462 [info] [Info  - 15:10:03] (36021) Assuming Python version 3.12.8.final.0
+2025-02-14 15:10:03.533 [info] [Info  - 15:10:03] (36021) Found 40 source files
+2025-02-14 15:10:04.115 [info] [Info  - 15:10:04] (36021) Background analysis(1) root directory: file:///home/hooke/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-14 15:10:04.123 [info] [Info  - 15:10:04] (36021) Background analysis(1) started
+2025-02-14 15:10:04.189 [info] [Info  - 15:10:04] (36021) Indexer background runner(2) root directory: file:///home/hooke/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist (index)
+2025-02-14 15:10:04.191 [info] [Info  - 15:10:04] (36021) Indexing(2) started
+2025-02-14 15:10:04.591 [info] [Info  - 15:10:04] (36021) scanned(2) 12 files over 1 exec env
+2025-02-14 15:10:04.803 [info] [Info  - 15:10:04] (36021) indexed(2) 12 files over 1 exec env
+2025-02-14 15:10:04.821 [info] [Info  - 15:10:04] (36021) Indexing finished(2).

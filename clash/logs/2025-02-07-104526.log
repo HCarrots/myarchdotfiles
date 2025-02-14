@@ -1,0 +1,88 @@
+10:45:26 INF [API] listening addr=127.0.0.1:44097
+10:45:26 INF inbound create success inbound=mixed addr=127.0.0.1:7890 network=tcp
+10:45:26 INF inbound create success inbound=mixed addr=127.0.0.1:7890 network=udp
+10:45:48 INF [Config] initial compatible provider name=节点选择
+10:45:48 INF [Config] initial compatible provider name=苹果服务
+10:45:48 INF [Config] initial compatible provider name=TikTok
+10:45:48 INF [Config] initial compatible provider name=WhatsApp
+10:45:48 INF [Config] initial compatible provider name=抖音
+10:45:48 INF [Config] initial compatible provider name=Netflix
+10:45:48 INF [Config] initial compatible provider name=故障转移
+10:45:48 INF [Config] initial compatible provider name=ChatGPT
+10:45:48 INF [Config] initial compatible provider name=谷歌服务
+10:45:48 INF [Config] initial compatible provider name=Copilot
+10:45:48 INF [Config] initial compatible provider name=微软服务
+10:45:48 INF [Config] initial compatible provider name=境内使用
+10:45:48 INF [Config] initial compatible provider name=磁力下载
+10:45:48 INF [Config] initial compatible provider name=哔哩哔哩
+10:45:48 INF [Config] initial compatible provider name=自动选择
+10:45:48 INF [Config] initial compatible provider name=Steam
+10:45:48 INF [Config] initial compatible provider name=Twitter
+10:45:48 INF [Config] initial compatible provider name=Telegram
+10:45:48 INF [Config] initial compatible provider name=海外使用
+10:45:48 INF [DNS] server listening addr=127.0.0.1:1053
+10:46:03 INF [Config] initial compatible provider name=磁力下载
+10:46:03 INF [Config] initial compatible provider name=Copilot
+10:46:03 INF [Config] initial compatible provider name=自动选择
+10:46:03 INF [Config] initial compatible provider name=Telegram
+10:46:03 INF [Config] initial compatible provider name=Steam
+10:46:03 INF [Config] initial compatible provider name=境内使用
+10:46:03 INF [Config] initial compatible provider name=节点选择
+10:46:03 INF [Config] initial compatible provider name=Netflix
+10:46:03 INF [Config] initial compatible provider name=ChatGPT
+10:46:03 INF [Config] initial compatible provider name=哔哩哔哩
+10:46:03 INF [Config] initial compatible provider name=微软服务
+10:46:03 INF [Config] initial compatible provider name=海外使用
+10:46:03 INF [Config] initial compatible provider name=苹果服务
+10:46:03 INF [Config] initial compatible provider name=谷歌服务
+10:46:03 INF [Config] initial compatible provider name=WhatsApp
+10:46:03 INF [Config] initial compatible provider name=TikTok
+10:46:03 INF [Config] initial compatible provider name=Twitter
+10:46:03 INF [Config] initial compatible provider name=抖音
+10:46:03 INF [Config] initial compatible provider name=故障转移
+10:46:18 INF inbound create success inbound=mixed addr=:7890 network=tcp
+10:46:18 INF inbound create success inbound=mixed addr=:7890 network=udp
+10:46:19 INF inbound create success inbound=mixed addr=127.0.0.1:7890 network=tcp
+10:46:19 INF inbound create success inbound=mixed addr=127.0.0.1:7890 network=udp
+10:46:20 INF inbound create success inbound=mixed addr=:7890 network=tcp
+10:46:20 INF inbound create success inbound=mixed addr=:7890 network=udp
+10:48:36 INF [Config] initial compatible provider name=ChatGPT
+10:48:36 INF [Config] initial compatible provider name=磁力下载
+10:48:36 INF [Config] initial compatible provider name=Netflix
+10:48:36 INF [Config] initial compatible provider name=哔哩哔哩
+10:48:36 INF [Config] initial compatible provider name=自动选择
+10:48:36 INF [Config] initial compatible provider name=Twitter
+10:48:36 INF [Config] initial compatible provider name=抖音
+10:48:36 INF [Config] initial compatible provider name=WhatsApp
+10:48:36 INF [Config] initial compatible provider name=谷歌服务
+10:48:36 INF [Config] initial compatible provider name=苹果服务
+10:48:36 INF [Config] initial compatible provider name=微软服务
+10:48:36 INF [Config] initial compatible provider name=Steam
+10:48:36 INF [Config] initial compatible provider name=TikTok
+10:48:36 INF [Config] initial compatible provider name=Telegram
+10:48:36 INF [Config] initial compatible provider name=海外使用
+10:48:36 INF [Config] initial compatible provider name=境内使用
+10:48:36 INF [Config] initial compatible provider name=故障转移
+10:48:36 INF [Config] initial compatible provider name=节点选择
+10:48:36 INF [Config] initial compatible provider name=Copilot
+10:48:36 INF [Config] initial compatible provider name=自动选择
+10:48:36 INF [Config] initial compatible provider name=节点选择
+10:48:36 INF [Config] initial compatible provider name=微软服务
+10:48:36 INF [Config] initial compatible provider name=Copilot
+10:48:36 INF [Config] initial compatible provider name=Twitter
+10:48:36 INF [Config] initial compatible provider name=故障转移
+10:48:36 INF [Config] initial compatible provider name=WhatsApp
+10:48:36 INF [Config] initial compatible provider name=Telegram
+10:48:36 INF [Config] initial compatible provider name=Netflix
+10:48:36 INF [Config] initial compatible provider name=苹果服务
+10:48:36 INF [Config] initial compatible provider name=ChatGPT
+10:48:36 INF [Config] initial compatible provider name=海外使用
+10:48:36 INF [Config] initial compatible provider name=TikTok
+10:48:36 INF [Config] initial compatible provider name=磁力下载
+10:48:36 INF [Config] initial compatible provider name=Steam
+10:48:36 INF [Config] initial compatible provider name=哔哩哔哩
+10:48:36 INF [Config] initial compatible provider name=谷歌服务
+10:48:36 INF [Config] initial compatible provider name=抖音
+10:48:36 INF [Config] initial compatible provider name=境内使用
+10:48:36 ERR [Inbound] start failed error=operation not permitted type=TUN stackType=gvisor inet=198.18.0.1/16
+10:48:36 ERR [Inbound] start failed error=operation not permitted type=TUN stackType=gvisor inet=198.18.0.1/16

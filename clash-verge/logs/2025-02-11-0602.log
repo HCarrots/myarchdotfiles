@@ -1,0 +1,11 @@
+2025-02-11 06:02:30 ERROR - failed to create the pid file
+2025-02-11 06:02:30 INFO - [clash]: time="2025-02-11T06:02:30.207066448Z" level=info msg="Start initial configuration in progress"
+2025-02-11 06:02:30 INFO - running timer task `r0LItqTq5fWa`
+2025-02-11 06:02:30 INFO - [clash]: time="2025-02-11T06:02:30.243794407Z" level=info msg="Geodata Loader mode: memconservative"
+2025-02-11 06:02:30 INFO - [clash]: time="2025-02-11T06:02:30.243817300Z" level=info msg="Geosite Matcher implementation: succinct"
+2025-02-11 06:02:30 ERROR - error sending request for url (https://onlysub.mjurl.com/api/v1/client/subscribe?token=317dbe2e5c4ec8e2f9dc0b843e5c2a4a): error trying to connect: dns error: failed to lookup address information: 域名解析出现暂时性错误
+2025-02-11 06:02:30 INFO - [clash]: time="2025-02-11T06:02:30.244727327Z" level=info msg="Load GeoIP rule: cn"
+2025-02-11 06:02:30 INFO - [clash]: time="2025-02-11T06:02:30.251318288Z" level=info msg="Load GeoIP rule: telegram"
+2025-02-11 06:02:30 INFO - [clash]: time="2025-02-11T06:02:30.258099155Z" level=info msg="Finished initial GeoIP rule telegram => Telegram, records: 12"
+2025-02-11 06:02:30 INFO - [clash]: time="2025-02-11T06:02:30.258165750Z" level=info msg="Finished initial GeoIP rule cn => DIRECT, records: 10552"
+2025-02-11 06:02:30 INFO - [clash]: time="2025-02-11T06:02:30.258349775Z" level=info msg="Initial configuration complete, total time: 51ms"

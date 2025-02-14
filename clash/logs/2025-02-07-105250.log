@@ -1,0 +1,43 @@
+10:52:50 INF inbound create success inbound=mixed addr=:7890 network=tcp
+10:52:50 INF inbound create success inbound=mixed addr=:7890 network=udp
+10:52:50 INF [API] listening addr=127.0.0.1:34359
+10:52:50 INF [Config] initial compatible provider name=抖音
+10:52:50 INF [Config] initial compatible provider name=Twitter
+10:52:50 INF [Config] initial compatible provider name=Steam
+10:52:50 INF [Config] initial compatible provider name=哔哩哔哩
+10:52:50 INF [Config] initial compatible provider name=海外使用
+10:52:50 INF [Config] initial compatible provider name=节点选择
+10:52:50 INF [Config] initial compatible provider name=TikTok
+10:52:50 INF [Config] initial compatible provider name=磁力下载
+10:52:50 INF [Config] initial compatible provider name=苹果服务
+10:52:50 INF [Config] initial compatible provider name=ChatGPT
+10:52:50 INF [Config] initial compatible provider name=Copilot
+10:52:50 INF [Config] initial compatible provider name=微软服务
+10:52:50 INF [Config] initial compatible provider name=境内使用
+10:52:50 INF [Config] initial compatible provider name=自动选择
+10:52:50 INF [Config] initial compatible provider name=WhatsApp
+10:52:50 INF [Config] initial compatible provider name=谷歌服务
+10:52:50 INF [Config] initial compatible provider name=Netflix
+10:52:50 INF [Config] initial compatible provider name=故障转移
+10:52:50 INF [Config] initial compatible provider name=Telegram
+10:52:50 ERR [Inbound] start failed error=operation not permitted type=TUN stackType=gvisor inet=198.18.0.1/16
+10:56:03 INF [Config] initial compatible provider name=微软服务
+10:56:03 INF [Config] initial compatible provider name=境内使用
+10:56:03 INF [Config] initial compatible provider name=故障转移
+10:56:03 INF [Config] initial compatible provider name=哔哩哔哩
+10:56:03 INF [Config] initial compatible provider name=Telegram
+10:56:03 INF [Config] initial compatible provider name=Steam
+10:56:03 INF [Config] initial compatible provider name=海外使用
+10:56:03 INF [Config] initial compatible provider name=自动选择
+10:56:03 INF [Config] initial compatible provider name=节点选择
+10:56:03 INF [Config] initial compatible provider name=Copilot
+10:56:03 INF [Config] initial compatible provider name=抖音
+10:56:03 INF [Config] initial compatible provider name=磁力下载
+10:56:03 INF [Config] initial compatible provider name=Twitter
+10:56:03 INF [Config] initial compatible provider name=谷歌服务
+10:56:03 INF [Config] initial compatible provider name=ChatGPT
+10:56:03 INF [Config] initial compatible provider name=苹果服务
+10:56:03 INF [Config] initial compatible provider name=WhatsApp
+10:56:03 INF [Config] initial compatible provider name=TikTok
+10:56:03 INF [Config] initial compatible provider name=Netflix
+10:56:03 ERR [Inbound] start failed error=operation not permitted type=TUN stackType=gvisor inet=198.18.0.1/16

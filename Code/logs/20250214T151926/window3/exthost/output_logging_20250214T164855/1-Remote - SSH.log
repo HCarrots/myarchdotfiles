@@ -1,0 +1,52 @@
+[16:48:55.355] Log Level: 2
+[16:48:55.374] SSH Resolver called for "ssh-remote+7b22686f73744e616d65223a22776e7330312e63736e732e696865702e61632e636e222c2275736572223a22687573686971692d616e61227d", attempt 1
+[16:48:55.376] remote.SSH.useLocalServer = true
+[16:48:55.377] remote.SSH.useExecServer = true
+[16:48:55.377] remote.SSH.bindHost = {}
+[16:48:55.377] remote.SSH.path = undefined
+[16:48:55.377] remote.SSH.configFile = undefined
+[16:48:55.377] remote.SSH.useFlock = true
+[16:48:55.378] remote.SSH.lockfilesInTmp = false
+[16:48:55.378] remote.SSH.localServerDownload = auto
+[16:48:55.378] remote.SSH.remoteServerListenOnSocket = false
+[16:48:55.378] remote.SSH.defaultExtensions = []
+[16:48:55.378] remote.SSH.defaultExtensionsIfInstalledLocally = []
+[16:48:55.378] remote.SSH.loglevel = 2
+[16:48:55.379] remote.SSH.enableDynamicForwarding = true
+[16:48:55.379] remote.SSH.enableRemoteCommand = false
+[16:48:55.379] remote.SSH.serverPickPortsFromRange = {}
+[16:48:55.379] remote.SSH.serverInstallPath = {}
+[16:48:55.379] remote.SSH.permitPtyAllocation = false
+[16:48:55.379] remote.SSH.preferredLocalPortRange = undefined
+[16:48:55.380] remote.SSH.useCurlAndWgetConfigurationFiles = false
+[16:48:55.380] remote.SSH.experimental.chat = false
+[16:48:55.380] remote.SSH.experimental.enhancedSessionLogs = false
+[16:48:55.381] VS Code version: 1.97.2
+[16:48:55.381] Remote-SSH version: remote-ssh@0.117.1
+[16:48:55.382] linux x64
+[16:48:55.398] SSH Resolver called for host: hushiqi-ana@wns01.csns.ihep.ac.cn
+[16:48:55.398] Setting up SSH remote "wns01.csns.ihep.ac.cn"
+[16:48:55.403] Acquiring local install lock: /tmp/vscode-remote-ssh-4e8b5a9e-install.lock
+[16:48:55.404] Looking for existing server data file at /home/hooke/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-4e8b5a9e-e54c774e0add60467559eb0d1e229c6452cf8447-0.117.1-es/data.json
+[16:48:55.404] Found existing data file
+[16:48:55.404] Found local server running: {"remoteListeningOn":{"port":40220},"osReleaseId":"scientific","arch":"x86_64","sshAuthSock":"","display":"","tmpDir":"/run/user/1027","platform":"linux","execServerToken":"81a896a2-9e4a-4b0a-bc23-6619b374763c","pid":118860,"ipcHandlePath":"/run/user/1000/vscode-ssh-askpass-c084c174d7a690542a338ddd34a9c51a48b3e1c6.sock","socksPort":37063,"startupTime":1739522891309}
+[16:48:55.414] Found running server - short-circuiting install
+[16:48:55.419] Starting forwarding server. local port 43575 -> socksPort 37063 -> remotePort 40220
+[16:48:55.419] Forwarding server listening on port 43575
+[16:48:55.419] Waiting for ssh tunnel to be ready
+[16:48:55.420] [Forwarding server port 43575] Got connection 0
+[16:48:55.421] Tunneled port 40220 to local port 43575
+[16:48:55.421] Resolved "ssh-remote+7b22686f73744e616d65223a22776e7330312e63736e732e696865702e61632e636e222c2275736572223a22687573686971692d616e61227d" to "port 43575"
+[16:48:55.428] Initizing new exec server for ssh-remote+7b22686f73744e616d65223a22776e7330312e63736e732e696865702e61632e636e222c2275736572223a22687573686971692d616e61227d
+[16:48:55.428] Resolving exec server at port 43575
+[16:48:55.429] [Forwarding server port 43575] Got connection 1
+[16:48:55.515] Exec server for ssh-remote+7b22686f73744e616d65223a22776e7330312e63736e732e696865702e61632e636e222c2275736572223a22687573686971692d616e61227d created and cached
+[16:48:55.515] Extensions to install: 
+[16:48:55.521] ------
+
+
+
+
+[16:48:55.522] No hints found in the recent session.
+[16:48:55.581] [server] Checking /wns_ana/hushiqi-ana/.vscode-server/cli/servers/Stable-e54c774e0add60467559eb0d1e229c6452cf8447/log.txt and /wns_ana/hushiqi-ana/.vscode-server/cli/servers/Stable-e54c774e0add60467559eb0d1e229c6452cf8447/pid.txt for a running server...
+[16:48:55.583] [server] Found running server (pid=111774)

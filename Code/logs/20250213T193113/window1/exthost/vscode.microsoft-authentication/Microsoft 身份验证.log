@@ -1,0 +1,23 @@
+2025-02-13 19:31:15.784 [info] Acquired MSAL enablement value from default. Value: true
+2025-02-13 19:31:15.795 [warning] [Thu, 13 Feb 2025 11:31:15 GMT] : [aebc6443-996d-45c2-90f0-388ff96faa56] [https://login.microsoftonline.com/organizations] : @azure/msal-node@2.16.2 : Warning - NativeBroker implementation was provided but the broker is unavailable.
+2025-02-13 19:31:15.924 [info] [getSessions] [all] starting
+2025-02-13 19:31:15.924 [info] [getSessions] [all] returned 1 session(s)
+2025-02-13 19:31:15.924 [info] [getSessions] [all] starting
+2025-02-13 19:31:15.924 [info] [getSessions] [all] returned 1 session(s)
+2025-02-13 19:31:15.932 [info] [getSessions] [email offline_access openid profile] starting
+2025-02-13 19:31:15.938 [info] [getSessions] [email offline_access openid profile] starting
+2025-02-13 19:31:16.767 [info] [getSessions] [all] starting
+2025-02-13 19:31:16.767 [info] [getSessions] [all] returned 1 session(s)
+2025-02-13 19:31:18.377 [error] [acquireTokenSilent] [aebc6443-996d-45c2-90f0-388ff96faa56] [https://login.microsoftonline.com/organizations] [email offline_access openid profile User.Read] [a15666004042@163.com] id token is still expired.
+2025-02-13 19:31:18.377 [info] [getSessions] [email offline_access openid profile] returned 1 session(s)
+2025-02-13 11:31:19.426 [info] [getSessions] [email offline_access openid profile] returned 1 session(s)
+2025-02-13 11:31:19.427 [info] [getSessions] [email offline_access openid profile] starting
+2025-02-13 11:31:19.430 [info] [getSessions] [email offline_access openid profile] returned 1 session(s)
+2025-02-13 11:32:09.336 [info] Acquired MSAL enablement value from default. Value: true
+2025-02-13 11:32:09.391 [warning] [Thu, 13 Feb 2025 03:32:09 GMT] : [aebc6443-996d-45c2-90f0-388ff96faa56] [https://login.microsoftonline.com/organizations] : @azure/msal-node@2.16.2 : Warning - NativeBroker implementation was provided but the broker is unavailable.
+2025-02-13 11:32:09.430 [info] [getSessions] [all] starting
+2025-02-13 11:32:09.430 [info] [getSessions] [all] returned 1 session(s)
+2025-02-13 11:32:09.430 [info] [getSessions] [all] starting
+2025-02-13 11:32:09.430 [info] [getSessions] [all] returned 1 session(s)
+2025-02-13 11:32:09.430 [info] [getSessions] [email offline_access openid profile] starting
+2025-02-13 11:32:09.433 [info] [getSessions] [email offline_access openid profile] returned 1 session(s)

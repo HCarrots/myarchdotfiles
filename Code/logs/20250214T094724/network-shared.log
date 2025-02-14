@@ -1,0 +1,11 @@
+2025-02-14 09:50:58.667 [error] #35: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2025-02-14 09:51:01.772 [error] #36: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_CHANGED
+2025-02-14 09:51:44.022 [error] #38: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_CHANGED
+2025-02-14 09:52:05.452 [error] #40: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_CHANGED
+2025-02-14 14:22:24.295 [error] #219: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2025-02-14 14:22:27.464 [error] #220: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_CHANGED
+2025-02-14 14:23:00.662 [error] #230: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2025-02-14 14:44:00.936 [error] #337: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_TIMED_OUT
+2025-02-14 14:49:31.504 [error] #340: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_TIMED_OUT
+2025-02-14 14:50:04.051 [error] #341: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_TIMED_OUT
+2025-02-14 14:51:47.208 [error] #342: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_TIMED_OUT

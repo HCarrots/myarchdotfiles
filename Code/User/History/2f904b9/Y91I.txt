@@ -1,0 +1,1 @@
+./BluetWaveFactory   ~/works/data/FEE.fee01.20240305012348.001.root ~/works/wnri-bluet-v5/output/pic

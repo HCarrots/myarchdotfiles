@@ -1,0 +1,17 @@
+files:
+  - url: ""
+    time: 1738925132642.yml
+    name: config.yaml
+    selected: []
+  - time: 1738925148157.yml
+    name: 魔戒.net
+    url: https://onlysub.mjurl.com/api/v1/client/subscribe?token=317dbe2e5c4ec8e2f9dc0b843e5c2a4a
+    selected: []
+    interval: 24
+    subInfo:
+      upload: 1232826392
+      download: 174508335835
+      total: 1782411427840
+    homeWeb: https://mojie.app
+    mode: rule
+index: 1

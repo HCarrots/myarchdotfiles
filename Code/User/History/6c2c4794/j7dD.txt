@@ -1,0 +1,31 @@
+cmake_minimum_required(VERSION 3.10)
+project(Bluet)
+
+# project_root_dir must contain data_manage.json file
+set(DATA_MANAGE_FILE "${PROJECT_SOURCE_DIR}/data_manage.json")
+if(EXISTS ${DATA_MANAGE_FILE})
+    message(STATUS "data_manage.json found at ${DATA_MANAGE_FILE}")
+else()
+    message(FATAL_ERROR "data_manage.json not found in the project root: ${CMAKE_SOURCE_DIR}. Exiting CMake.")
+endif()
+
+find_package(ROOT REQUIRED)
+
+#set(BOOST_ROOT "/cvmfs/software.csns.ihep.ac.cn/softwares/Boost/")
+find_package(Boost)
+###include directories
+include_directories($ENV{ROOTSYS}/include)
+include_directories($ENV{ROOTSYS}/math/mlp/inc)
+include_directories(${PROJECT_SOURCE_DIR}/include)
+include_directories($ENV{BLUETBase}/BluetAna/include)
+#include_directories(/cvmfs/software.csns.ihep.ac.cn/softwares/eigen3/include/eigen3)
+include_directories(${Boost_INCLUDE_DIRS})
+
+
+###Set C++ 
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -DMYSQLPP_MYSQL_HEADERS_BURIED -std=c++17 -g -W -Wall -Wextra -O3")
+set(ROOTLIBS ${ROOT_LIBRARIES})
+
+
+# add subdirectory
+add_subdirectory(yihBluetWork)

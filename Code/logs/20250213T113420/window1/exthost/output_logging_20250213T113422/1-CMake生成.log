@@ -1,0 +1,1418 @@
+[proc] 执行命令: /usr/bin/cmake --version
+[proc] 执行命令: /usr/bin/cmake -E capabilities
+[kit] 已成功从 /home/hooke/.local/share/CMakeTools/cmake-tools-kits.json 加载 3 工具包
+[variant] 已加载一组新变量
+[proc] 执行命令: /usr/bin/gcc -v
+[main] 正在配置项目: wnri-bluet-v5 
+[proc] 执行命令: /usr/bin/cmake -DCMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS:BOOL=TRUE -DCMAKE_C_COMPILER:FILEPATH=/usr/bin/gcc -DCMAKE_CXX_COMPILER:FILEPATH=/usr/bin/g++ --no-warn-unused-cli -S/home/hooke/works/wnri-bluet-v5 -B/home/hooke/works/wnri-bluet-v5/build -G Ninja
+[cmake] CMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
+[cmake]   Compatibility with CMake < 3.10 will be removed from a future version of
+[cmake]   CMake.
+[cmake] 
+[cmake]   Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+[cmake]   to tell CMake that the project requires at least <min> but has been updated
+[cmake]   to work with policies introduced by <max> or earlier.
+[cmake] 
+[cmake] 
+[cmake] Not searching for unused variables given on the command line.
+[cmake] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[cmake] -- Configuring done (0.0s)
+[cmake] -- Generating done (0.0s)
+[cmake] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[cmake] CMake Warning (dev) at CMakeLists.txt:15 (find_package):
+[cmake]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[cmake]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[cmake]   set the policy and suppress this warning.
+[cmake] 
+[cmake] This warning is for project developers.  Use -Wno-dev to suppress it.
+[cmake] 
+[main] 正在配置项目: wnri-bluet-v5 
+[proc] 执行命令: /usr/bin/cmake -DCMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS:BOOL=TRUE -DCMAKE_C_COMPILER:FILEPATH=/usr/bin/gcc -DCMAKE_CXX_COMPILER:FILEPATH=/usr/bin/g++ --no-warn-unused-cli -S/home/hooke/works/wnri-bluet-v5 -B/home/hooke/works/wnri-bluet-v5/build -G Ninja
+[cmake] CMake Error at CMakeLists.txt:3:
+[cmake]   Parse error.  Expected a command name, got unquoted argument with text
+[cmake]   "时偶能够".
+[cmake] 
+[cmake] 
+[cmake] Not searching for unused variables given on the command line.
+[cmake] -- Configuring incomplete, errors occurred!
+[proc] 命令“/usr/bin/cmake -DCMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS:BOOL=TRUE -DCMAKE_C_COMPILER:FILEPATH=/usr/bin/gcc -DCMAKE_CXX_COMPILER:FILEPATH=/usr/bin/g++ --no-warn-unused-cli -S/home/hooke/works/wnri-bluet-v5 -B/home/hooke/works/wnri-bluet-v5/build -G Ninja”已退出，代码为 1
+[main] 正在配置项目: wnri-bluet-v5 
+[proc] 执行命令: /usr/bin/cmake -DCMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS:BOOL=TRUE -DCMAKE_C_COMPILER:FILEPATH=/usr/bin/gcc -DCMAKE_CXX_COMPILER:FILEPATH=/usr/bin/g++ --no-warn-unused-cli -S/home/hooke/works/wnri-bluet-v5 -B/home/hooke/works/wnri-bluet-v5/build -G Ninja
+[cmake] CMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
+[cmake]   Compatibility with CMake < 3.10 will be removed from a future version of
+[cmake]   CMake.
+[cmake] 
+[cmake]   Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+[cmake]   to tell CMake that the project requires at least <min> but has been updated
+[cmake]   to work with policies introduced by <max> or earlier.
+[cmake] 
+[cmake] 
+[cmake] Not searching for unused variables given on the command line.
+[cmake] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[cmake] CMake Warning (dev) at CMakeLists.txt:15 (find_package):
+[cmake]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[cmake]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[cmake]   set the policy and suppress this warning.
+[cmake] 
+[cmake] This warning is for project developers.  Use -Wno-dev to suppress it.
+[cmake] 
+[cmake] -- Configuring done (0.0s)
+[cmake] -- Generating done (0.0s)
+[cmake] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[main] 正在配置项目: wnri-bluet-v5 
+[proc] 执行命令: /usr/bin/cmake -DCMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS:BOOL=TRUE -DCMAKE_C_COMPILER:FILEPATH=/usr/bin/gcc -DCMAKE_CXX_COMPILER:FILEPATH=/usr/bin/g++ --no-warn-unused-cli -S/home/hooke/works/wnri-bluet-v5 -B/home/hooke/works/wnri-bluet-v5/build -G Ninja
+[cmake] Not searching for unused variables given on the command line.
+[cmake] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[cmake] CMake Warning (dev) at CMakeLists.txt:15 (find_package):
+[cmake]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[cmake]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[cmake]   set the policy and suppress this warning.
+[cmake] 
+[cmake] This warning is for project developers.  Use -Wno-dev to suppress it.
+[cmake] 
+[cmake] -- Configuring done (0.0s)
+[cmake] -- Generating done (0.0s)
+[cmake] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[main] 正在配置项目: wnri-bluet-v5 
+[proc] 执行命令: /usr/bin/cmake -DCMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS:BOOL=TRUE -DCMAKE_C_COMPILER:FILEPATH=/usr/bin/gcc -DCMAKE_CXX_COMPILER:FILEPATH=/usr/bin/g++ --no-warn-unused-cli -S/home/hooke/works/wnri-bluet-v5 -B/home/hooke/works/wnri-bluet-v5/build -G Ninja
+[cmake] Not searching for unused variables given on the command line.
+[cmake] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[cmake] CMake Warning (dev) at CMakeLists.txt:15 (find_package):
+[cmake]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[cmake]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[cmake]   set the policy and suppress this warning.
+[cmake] 
+[cmake] This warning is for project developers.  Use -Wno-dev to suppress it.
+[cmake] 
+[cmake] -- Configuring done (0.0s)
+[cmake] -- Generating done (0.0s)
+[cmake] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[main] 正在配置项目: wnri-bluet-v5 
+[proc] 执行命令: /usr/bin/cmake -DCMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS:BOOL=TRUE -DCMAKE_C_COMPILER:FILEPATH=/usr/bin/gcc -DCMAKE_CXX_COMPILER:FILEPATH=/usr/bin/g++ --no-warn-unused-cli -S/home/hooke/works/wnri-bluet-v5 -B/home/hooke/works/wnri-bluet-v5/build -G Ninja
+[cmake] Not searching for unused variables given on the command line.
+[cmake] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[cmake] CMake Error at CMakeLists.txt:15 (ind_package):
+[cmake]   Unknown CMake command "ind_package".
+[cmake] 
+[cmake] 
+[cmake] -- Configuring incomplete, errors occurred!
+[proc] 命令“/usr/bin/cmake -DCMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS:BOOL=TRUE -DCMAKE_C_COMPILER:FILEPATH=/usr/bin/gcc -DCMAKE_CXX_COMPILER:FILEPATH=/usr/bin/g++ --no-warn-unused-cli -S/home/hooke/works/wnri-bluet-v5 -B/home/hooke/works/wnri-bluet-v5/build -G Ninja”已退出，代码为 1
+[main] 正在配置项目: wnri-bluet-v5 
+[proc] 执行命令: /usr/bin/cmake -DCMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS:BOOL=TRUE -DCMAKE_C_COMPILER:FILEPATH=/usr/bin/gcc -DCMAKE_CXX_COMPILER:FILEPATH=/usr/bin/g++ --no-warn-unused-cli -S/home/hooke/works/wnri-bluet-v5 -B/home/hooke/works/wnri-bluet-v5/build -G Ninja
+[cmake] Not searching for unused variables given on the command line.
+[cmake] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[cmake] CMake Warning (dev) at CMakeLists.txt:15 (find_package):
+[cmake]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[cmake]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[cmake]   set the policy and suppress this warning.
+[cmake] 
+[cmake] This warning is for project developers.  Use -Wno-dev to suppress it.
+[cmake] 
+[cmake] -- Configuring done (0.0s)
+[cmake] -- Generating done (0.0s)
+[cmake] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[main] 正在配置项目: wnri-bluet-v5 
+[proc] 执行命令: /usr/bin/cmake -DCMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS:BOOL=TRUE -DCMAKE_C_COMPILER:FILEPATH=/usr/bin/gcc -DCMAKE_CXX_COMPILER:FILEPATH=/usr/bin/g++ --no-warn-unused-cli -S/home/hooke/works/wnri-bluet-v5 -B/home/hooke/works/wnri-bluet-v5/build -G Ninja
+[cmake] Not searching for unused variables given on the command line.
+[cmake] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[cmake] -- Configuring done (0.0s)
+[cmake] -- Generating done (0.0s)
+[cmake] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[main] 正在配置项目: wnri-bluet-v5 
+[proc] 执行命令: /usr/bin/cmake -DCMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS:BOOL=TRUE -DCMAKE_C_COMPILER:FILEPATH=/usr/bin/gcc -DCMAKE_CXX_COMPILER:FILEPATH=/usr/bin/g++ --no-warn-unused-cli -S/home/hooke/works/wnri-bluet-v5 -B/home/hooke/works/wnri-bluet-v5/build -G Ninja
+[cmake] Not searching for unused variables given on the command line.
+[cmake] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[cmake] -- Configuring done (0.0s)
+[cmake] -- Generating done (0.0s)
+[cmake] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[main] 正在配置项目: wnri-bluet-v5 
+[proc] 执行命令: /usr/bin/cmake -DCMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS:BOOL=TRUE -DCMAKE_C_COMPILER:FILEPATH=/usr/bin/gcc -DCMAKE_CXX_COMPILER:FILEPATH=/usr/bin/g++ --no-warn-unused-cli -S/home/hooke/works/wnri-bluet-v5 -B/home/hooke/works/wnri-bluet-v5/build -G Ninja
+[cmake] Not searching for unused variables given on the command line.
+[cmake] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[cmake] CMake Warning (dev) at CMakeLists.txt:16 (find_package):
+[cmake]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[cmake]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[cmake]   set the policy and suppress this warning.
+[cmake] 
+[cmake] This warning is for project developers.  Use -Wno-dev to suppress it.
+[cmake] 
+[cmake] -- Configuring done (0.0s)
+[cmake] -- Generating done (0.0s)
+[cmake] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[main] 正在配置项目: wnri-bluet-v5 
+[proc] 执行命令: /usr/bin/cmake -DCMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS:BOOL=TRUE -DCMAKE_C_COMPILER:FILEPATH=/usr/bin/gcc -DCMAKE_CXX_COMPILER:FILEPATH=/usr/bin/g++ --no-warn-unused-cli -S/home/hooke/works/wnri-bluet-v5 -B/home/hooke/works/wnri-bluet-v5/build -G Ninja
+[cmake] Not searching for unused variables given on the command line.
+[cmake] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[cmake] -- Configuring done (0.0s)
+[cmake] -- Generating done (0.0s)
+[cmake] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[main] 正在配置项目: wnri-bluet-v5 
+[proc] 执行命令: /usr/bin/cmake -DCMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS:BOOL=TRUE -DCMAKE_C_COMPILER:FILEPATH=/usr/bin/gcc -DCMAKE_CXX_COMPILER:FILEPATH=/usr/bin/g++ --no-warn-unused-cli -S/home/hooke/works/wnri-bluet-v5 -B/home/hooke/works/wnri-bluet-v5/build -G Ninja
+[cmake] Not searching for unused variables given on the command line.
+[cmake] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[cmake] -- Configuring done (0.0s)
+[cmake] -- Generating done (0.0s)
+[cmake] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[main] 正在配置项目: wnri-bluet-v5 
+[proc] 执行命令: /usr/bin/cmake -DCMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS:BOOL=TRUE -DCMAKE_C_COMPILER:FILEPATH=/usr/bin/gcc -DCMAKE_CXX_COMPILER:FILEPATH=/usr/bin/g++ --no-warn-unused-cli -S/home/hooke/works/wnri-bluet-v5 -B/home/hooke/works/wnri-bluet-v5/build -G Ninja
+[cmake] Not searching for unused variables given on the command line.
+[cmake] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[cmake] CMake Warning (dev) at CMakeLists.txt:16 (find_package):
+[cmake]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[cmake]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[cmake]   set the policy and suppress this warning.
+[cmake] 
+[cmake] This warning is for project developers.  Use -Wno-dev to suppress it.
+[cmake] 
+[cmake] -- Configuring done (0.0s)
+[cmake] -- Generating done (0.0s)
+[cmake] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[main] 正在配置项目: wnri-bluet-v5 
+[proc] 执行命令: /usr/bin/cmake -DCMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS:BOOL=TRUE -DCMAKE_C_COMPILER:FILEPATH=/usr/bin/gcc -DCMAKE_CXX_COMPILER:FILEPATH=/usr/bin/g++ --no-warn-unused-cli -S/home/hooke/works/wnri-bluet-v5 -B/home/hooke/works/wnri-bluet-v5/build -G Ninja
+[cmake] Not searching for unused variables given on the command line.
+[cmake] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[cmake] -- Configuring done (0.0s)
+[cmake] -- Generating done (0.0s)
+[cmake] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[main] 正在配置项目: wnri-bluet-v5 
+[proc] 执行命令: /usr/bin/cmake -DCMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS:BOOL=TRUE -DCMAKE_C_COMPILER:FILEPATH=/usr/bin/gcc -DCMAKE_CXX_COMPILER:FILEPATH=/usr/bin/g++ --no-warn-unused-cli -S/home/hooke/works/wnri-bluet-v5 -B/home/hooke/works/wnri-bluet-v5/build -G Ninja
+[cmake] Not searching for unused variables given on the command line.
+[cmake] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[cmake] -- Configuring done (0.0s)
+[cmake] -- Generating done (0.0s)
+[cmake] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[main] 正在配置项目: wnri-bluet-v5 
+[proc] 执行命令: /usr/bin/cmake -DCMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS:BOOL=TRUE -DCMAKE_C_COMPILER:FILEPATH=/usr/bin/gcc -DCMAKE_CXX_COMPILER:FILEPATH=/usr/bin/g++ --no-warn-unused-cli -S/home/hooke/works/wnri-bluet-v5 -B/home/hooke/works/wnri-bluet-v5/build -G Ninja
+[cmake] Not searching for unused variables given on the command line.
+[cmake] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[main] 在 CMakeLists.txt 中检测到更改，但由于另一操作已在进行中，我们无法重新配置项目。
+[main] 在 CMakeLists.txt 中检测到更改，但由于另一操作已在进行中，我们无法重新配置项目。
+[main] 在 CMakeLists.txt 中检测到更改，但由于另一操作已在进行中，我们无法重新配置项目。
+[main] 在 CMakeLists.txt 中检测到更改，但由于另一操作已在进行中，我们无法重新配置项目。
+[main] 在 CMakeLists.txt 中检测到更改，但由于另一操作已在进行中，我们无法重新配置项目。
+[main] 在 CMakeLists.txt 中检测到更改，但由于另一操作已在进行中，我们无法重新配置项目。
+[main] 在 CMakeLists.txt 中检测到更改，但由于另一操作已在进行中，我们无法重新配置项目。
+[proc] 命令“pgrep -P 42102”已退出，代码为 1
+[proc] 命令: /usr/bin/cmake -DCMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS:BOOL=TRUE -DCMAKE_C_COMPILER:FILEPATH=/usr/bin/gcc -DCMAKE_CXX_COMPILER:FILEPATH=/usr/bin/g++ --no-warn-unused-cli -S/home/hooke/works/wnri-bluet-v5 -B/home/hooke/works/wnri-bluet-v5/build -G Ninja 退出，代码为: null，信号为: SIGINT
+[proc] 执行命令: /usr/bin/gcc -v
+[main] 正在生成文件夹: /home/hooke/works/wnri-bluet-v5/build 
+[main] 正在配置项目: wnri-bluet-v5 
+[proc] 执行命令: /usr/bin/cmake -DCMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS:BOOL=TRUE -DCMAKE_C_COMPILER:FILEPATH=/usr/bin/gcc -DCMAKE_CXX_COMPILER:FILEPATH=/usr/bin/g++ --no-warn-unused-cli -S/home/hooke/works/wnri-bluet-v5 -B/home/hooke/works/wnri-bluet-v5/build -G Ninja
+[cmake] Not searching for unused variables given on the command line.
+[cmake] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[cmake] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[cmake]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[cmake]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[cmake]   set the policy and suppress this warning.
+[cmake] 
+[cmake] This warning is for project developers.  Use -Wno-dev to suppress it.
+[cmake] 
+[cmake] -- Configuring done (0.0s)
+[cmake] -- Generating done (0.0s)
+[cmake] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] 正在启动生成
+[proc] 执行命令: /usr/bin/cmake --build /home/hooke/works/wnri-bluet-v5/build --config Debug --target all --
+[build] [1/1   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/2   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/3   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.1s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/4   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/5   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/6   0% :: 0.000] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/7   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/8   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/9   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/10   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/11   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/12   0% :: 0.000] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/13   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/14   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/15   0% :: 0.000] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/16   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/17   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/18   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/19   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/20   0% :: 0.000] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/21   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/22   0% :: 0.000] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/23   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/24   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/25   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/26   0% :: 0.000] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/27   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/28   0% :: 0.000] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/29   0% :: 0.000] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/30   0% :: 0.000] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/31   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/32   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/33   0% :: 0.000] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/34   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/35   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/36   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/37   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/38   0% :: 0.000] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.1s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/39   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/40   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/41   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/42   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/43   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/44   0% :: 0.000] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/45   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/46   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/47   0% :: 0.000] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/48   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/49   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/50   0% :: 0.000] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/51   0% :: 0.000] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/52   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/53   0% :: 0.000] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/54   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/55   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/56   0% :: 0.000] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/57   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/58   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/59   0% :: 0.000] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/60   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/61   0% :: 0.000] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/62   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/63   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/64   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/65   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/66   0% :: 0.000] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/67   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/68   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/69   0% :: 0.000] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/70   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/71   0% :: 0.000] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/72   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/73   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/74   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/75   0% :: 0.000] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/76   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/77   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/78   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/79   0% :: 0.000] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/80   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/81   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/82   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/83   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/84   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/85   0% :: 0.000] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/86   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/87   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/88   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/89   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/90   0% :: 0.000] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/91   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/92   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/93   0% :: 0.000] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/94   0% :: 0.000] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/95   0% :: 0.000] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/96   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/97   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/98   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/99   0% :: 0.001] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] [1/100   0% :: 0.000] Re-running CMake...
+[build] -- data_manage.json found at /home/hooke/works/wnri-bluet-v5/data_manage.json
+[build] CMake Warning (dev) at CMakeLists.txt:18 (find_package):
+[build]   Policy CMP0167 is not set: The FindBoost module is removed.  Run "cmake
+[build]   --help-policy CMP0167" for policy details.  Use the cmake_policy command to
+[build]   set the policy and suppress this warning.
+[build] 
+[build] This warning is for project developers.  Use -Wno-dev to suppress it.
+[build] 
+[build] -- Configuring done (0.0s)
+[build] -- Generating done (0.0s)
+[build] -- Build files have been written to: /home/hooke/works/wnri-bluet-v5/build
+[build] ninja: error: manifest 'build.ninja' still dirty after 100 tries, perhaps system time is not set
+[proc] 命令“/usr/bin/cmake --build /home/hooke/works/wnri-bluet-v5/build --config Debug --target all --”已退出，代码为 1
+[driver] 生成完毕: 00:00:09.855
+[build] 生成已完成，退出代码为 1

@@ -1,0 +1,8 @@
+[Desktop Entry]
+    Type=Application
+    Version=0.20.39
+    Name=Clash for Windows
+    Comment=Clash for Windows startup script
+    Exec="/home/hooke/.download/Clash for Windows-0.20.39-x64-linux/cfw"
+    StartupNotify=false
+    Terminal=false

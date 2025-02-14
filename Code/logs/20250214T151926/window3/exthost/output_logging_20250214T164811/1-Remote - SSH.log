@@ -1,0 +1,277 @@
+[16:48:11.237] Log Level: 2
+[16:48:11.254] SSH Resolver called for "ssh-remote+7b22686f73744e616d65223a22776e7330312e63736e732e696865702e61632e636e222c2275736572223a22687573686971692d616e61227d", attempt 1
+[16:48:11.258] remote.SSH.useLocalServer = true
+[16:48:11.258] remote.SSH.useExecServer = true
+[16:48:11.258] remote.SSH.bindHost = {}
+[16:48:11.258] remote.SSH.path = 
+[16:48:11.258] remote.SSH.configFile = 
+[16:48:11.258] remote.SSH.useFlock = true
+[16:48:11.258] remote.SSH.lockfilesInTmp = false
+[16:48:11.259] remote.SSH.localServerDownload = auto
+[16:48:11.259] remote.SSH.remoteServerListenOnSocket = false
+[16:48:11.259] remote.SSH.defaultExtensions = []
+[16:48:11.259] remote.SSH.defaultExtensionsIfInstalledLocally = []
+[16:48:11.259] remote.SSH.loglevel = 2
+[16:48:11.259] remote.SSH.enableDynamicForwarding = true
+[16:48:11.259] remote.SSH.enableRemoteCommand = false
+[16:48:11.259] remote.SSH.serverPickPortsFromRange = {}
+[16:48:11.259] remote.SSH.serverInstallPath = {}
+[16:48:11.259] remote.SSH.permitPtyAllocation = false
+[16:48:11.259] remote.SSH.preferredLocalPortRange = undefined
+[16:48:11.259] remote.SSH.useCurlAndWgetConfigurationFiles = false
+[16:48:11.260] remote.SSH.experimental.chat = true
+[16:48:11.260] remote.SSH.experimental.enhancedSessionLogs = true
+[16:48:11.264] VS Code version: 1.97.2
+[16:48:11.264] Remote-SSH version: remote-ssh@0.117.1
+[16:48:11.264] linux x64
+[16:48:11.274] SSH Resolver called for host: hushiqi-ana@wns01.csns.ihep.ac.cn
+[16:48:11.274] Setting up SSH remote "wns01.csns.ihep.ac.cn"
+[16:48:11.280] Acquiring local install lock: /tmp/vscode-remote-ssh-4e8b5a9e-install.lock
+[16:48:11.282] Looking for existing server data file at /home/hooke/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-4e8b5a9e-e54c774e0add60467559eb0d1e229c6452cf8447-0.117.1-es/data.json
+[16:48:11.282] No existing data file
+[16:48:11.283] Using commit id "e54c774e0add60467559eb0d1e229c6452cf8447" and quality "stable" for server
+[16:48:11.283] Extensions to install: 
+[16:48:11.287] Install and start server if needed
+[16:48:11.290] PATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+[16:48:11.290] Checking ssh with "ssh -V"
+[16:48:11.299] > OpenSSH_9.9p1, OpenSSL 3.4.1 11 Feb 2025
+
+[16:48:11.304] askpass server listening on /run/user/1000/vscode-ssh-askpass-9604b2acaad2deeec9b84b1bee23ae928e7227f4.sock
+[16:48:11.304] Spawning local server with {"serverId":1,"ipcHandlePath":"/run/user/1000/vscode-ssh-askpass-c084c174d7a690542a338ddd34a9c51a48b3e1c6.sock","sshCommand":"ssh","sshArgs":["-v","-T","-D","37063","-o","ConnectTimeout=15","hushiqi-ana@wns01.csns.ihep.ac.cn"],"serverDataFolderName":".vscode-server","dataFilePath":"/home/hooke/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-4e8b5a9e-e54c774e0add60467559eb0d1e229c6452cf8447-0.117.1-es/data.json"}
+[16:48:11.304] Local server env: {"SHELL":"/usr/bin/fish","DISPLAY":":0","ELECTRON_RUN_AS_NODE":"1","SSH_ASKPASS":"/home/hooke/.vscode/extensions/ms-vscode-remote.remote-ssh-0.117.1/out/local-server/askpass.sh","VSCODE_SSH_ASKPASS_NODE":"/opt/visual-studio-code/code","VSCODE_SSH_ASKPASS_EXTRA_ARGS":"","VSCODE_SSH_ASKPASS_MAIN":"/home/hooke/.vscode/extensions/ms-vscode-remote.remote-ssh-0.117.1/out/askpass-main.js","VSCODE_SSH_ASKPASS_HANDLE":"/run/user/1000/vscode-ssh-askpass-9604b2acaad2deeec9b84b1bee23ae928e7227f4.sock"}
+[16:48:11.309] Spawned 118860
+[16:48:11.309] Using connect timeout of 17 seconds
+[16:48:11.389] > local-server-1> Running ssh connection command: ssh -v -T -D 37063 -o ConnectTimeout=15 hushiqi-ana@wns01.csns.ihep.ac.cn
+[16:48:11.392] > local-server-1> Spawned ssh, pid=118868
+[16:48:11.396] stderr> OpenSSH_9.9p1, OpenSSL 3.4.1 11 Feb 2025
+[16:48:11.467] stderr> debug1: Server host key: ssh-ed25519 SHA256:2VYvbcyjZIWTEivIXik+wCiP/Y69gGJqNcbOdBXbl8E
+[16:48:11.610] Got askpass request: {"request":" hushiqi-ana@wns01.csns.ihep.ac.cn's password: "}
+[16:48:11.611] Showing password prompt
+[16:48:11.611] Listening for interwindow password on /run/user/1000/vscode-ssh-askpass-37bc0c7eac2a515cba7069e3ba7bb189144d4ae1.sock
+[16:48:11.611] Writing password prompt to globalState
+[16:48:27.766] Got password response
+[16:48:27.766] Interactor gave response: ****************
+[16:48:27.766] Cleaning up other-window auth server
+[16:48:27.767] Using connect timeout of 17 seconds
+[16:48:27.837] stderr> Authenticated to wns01.csns.ihep.ac.cn ([10.1.252.103]:22) using "password".
+[16:48:27.942] > ===> BLUETBase is set to: /wns_ana/hushiqi-ana/works/wnri-bluet-v5
+[16:48:28.048] > ready: 83dc7f407e9c
+[16:48:28.055] > Linux 3.10.0-1160.24.1.el7.x86_64 #1 SMP Mon Apr 12 09:22:38 CDT 2021
+[16:48:28.055] Platform: linux
+[16:48:28.057] > /bin/bash
+[16:48:28.057] Parent Shell: bash
+[16:48:28.057] Parent Shell pid: 118860
+[16:48:28.058] Waiting for subshell to start
+[16:48:28.063] > 111630
+[16:48:28.063] stdout -> '111630'
+[16:48:28.063] sub-process detected
+[16:48:28.080] > 83dc7f407e9c: running
+> Script executing under PID: 111630
+[16:48:28.099] > Installing to /wns_ana/hushiqi-ana/.vscode-server...
+[16:48:28.105] > 83dc7f407e9c%%1%%
+> Downloading with wget
+[16:48:28.106] > wget is from busybox: no
+[16:48:28.114] > Detected that this version of wget does not support '--no-config'. Will not ignore wget default configuration files.
+[16:48:28.114] stderr> Program 'wget' is not available or does not appear to support flag '--no-config'
+[16:48:29.313] > Download complete
+[16:48:29.324] > 83dc7f407e9c%%2%%
+[16:48:29.329] > tar --version: tar (GNU tar) 1.26
+> Copyright (C) 2011 Free Software Foundation, Inc.
+> License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+> This is free software: you are free to change and redistribute it.
+> There is NO WARRANTY, to the extent permitted by law.
+> 
+> Written by John Gilmore and Jay Fenlason.
+[16:48:29.661] > code 1.97.2 (commit e54c774e0add60467559eb0d1e229c6452cf8447)
+[16:48:29.672] > Starting VS Code CLI...
+[16:48:29.683] > Spawned remote CLI: 111700
+[16:48:29.688] > Waiting for server log...
+[16:48:29.728] > Waiting for server log...
+[16:48:29.771] > 83dc7f407e9c: start
+> listeningOn==127.0.0.1:40220==
+> osReleaseId==scientific==
+[16:48:29.772] > arch==x86_64==
+> vscodeArch==x64==
+> bitness==64==
+> tmpDir==/run/user/1027==
+> platform==linux==
+> unpackResult==success==
+> didLocalDownload==0==
+> downloadTime==1215==
+> installTime==300==
+> serverStartTime==91==
+> execServerToken==11a111a1-1a1a-1a1a-aa11-1111a111111a==
+> platformDownloadPath==cli-alpine-x64==
+> SSH_AUTH_SOCK====
+> DISPLAY====
+> 83dc7f407e9c: end
+[16:48:29.773] Received install output: 
+listeningOn==127.0.0.1:40220==
+osReleaseId==scientific==arch==x86_64==
+vscodeArch==x64==
+bitness==64==
+tmpDir==/run/user/1027==
+platform==linux==
+unpackResult==success==
+didLocalDownload==0==
+downloadTime==1215==
+installTime==300==
+serverStartTime==91==
+execServerToken==11a111a1-1a1a-1a1a-aa11-1111a111111a==
+platformDownloadPath==cli-alpine-x64==
+SSH_AUTH_SOCK====
+DISPLAY====
+
+[16:48:29.773] Remote server is listening on port 40220
+[16:48:29.773] Parsed server configuration: {"serverConfiguration":{"remoteListeningOn":{"port":40220},"osReleaseId":"scientific","arch":"x86_64","sshAuthSock":"","display":"","tmpDir":"/run/user/1027","platform":"linux","execServerToken":"11a111a1-1a1a-1a1a-aa11-1111a111111a"},"downloadTime":1215,"installTime":300,"serverStartTime":91,"installUnpackCode":"success"}
+[16:48:29.774] Persisting server connection details to /home/hooke/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-4e8b5a9e-e54c774e0add60467559eb0d1e229c6452cf8447-0.117.1-es/data.json
+[16:48:29.777] Starting forwarding server. local port 38753 -> socksPort 37063 -> remotePort 40220
+[16:48:29.777] Forwarding server listening on port 38753
+[16:48:29.777] Waiting for ssh tunnel to be ready
+[16:48:29.778] [Forwarding server port 38753] Got connection 0
+[16:48:29.778] Tunneled port 40220 to local port 38753
+[16:48:29.778] Resolved "ssh-remote+7b22686f73744e616d65223a22776e7330312e63736e732e696865702e61632e636e222c2275736572223a22687573686971692d616e61227d" to "port 38753"
+[16:48:29.784] Initizing new exec server for ssh-remote+7b22686f73744e616d65223a22776e7330312e63736e732e696865702e61632e636e222c2275736572223a22687573686971692d616e61227d
+[16:48:29.784] Resolving exec server at port 38753
+[16:48:29.785] [Forwarding server port 38753] Got connection 1
+[16:48:29.867] Exec server for ssh-remote+7b22686f73744e616d65223a22776e7330312e63736e732e696865702e61632e636e222c2275736572223a22687573686971692d616e61227d created and cached
+[16:48:29.867] Extensions to install: 
+[16:48:29.873] ------
+
+
+
+
+[16:48:29.873] No hints found in the recent session.
+[16:48:29.887] [server] Checking /wns_ana/hushiqi-ana/.vscode-server/cli/servers/Stable-e54c774e0add60467559eb0d1e229c6452cf8447/log.txt and /wns_ana/hushiqi-ana/.vscode-server/cli/servers/Stable-e54c774e0add60467559eb0d1e229c6452cf8447/pid.txt for a running server...
+[16:48:29.987] [server] Installing and setting up Visual Studio Code Server...
+[16:48:30.652] [server] Downloading Visual Studio Code server -> /tmp/.tmpogjnWy/vscode-server-linux-legacy-x64.tar.gz
+[16:48:30.652] [server] server download progress: 0/61835586 (0%)
+[16:48:30.832] [server] server download progress: 2105344/61835586 (3%)
+[16:48:30.875] [server] server download progress: 4210688/61835586 (7%)
+[16:48:30.907] [server] server download progress: 6316032/61835586 (10%)
+[16:48:30.935] [server] server download progress: 8421376/61835586 (14%)
+[16:48:30.967] [server] server download progress: 10526720/61835586 (17%)
+[16:48:31.004] [server] server download progress: 12632064/61835586 (20%)
+[16:48:31.080] [server] server download progress: 14737408/61835586 (24%)
+[16:48:31.122] [server] server download progress: 16842752/61835586 (27%)
+[16:48:31.149] [server] server download progress: 18948096/61835586 (31%)
+[16:48:31.177] [server] server download progress: 21053440/61835586 (34%)
+[16:48:31.205] [server] server download progress: 23158784/61835586 (37%)
+[16:48:31.239] [server] server download progress: 25264128/61835586 (41%)
+[16:48:31.270] [server] server download progress: 27369472/61835586 (44%)
+[16:48:31.516] [server] server download progress: 29474816/61835586 (48%)
+[16:48:31.723] [server] server download progress: 31580160/61835586 (51%)
+[16:48:31.770] [server] server download progress: 33685504/61835586 (54%)
+[16:48:31.799] [server] server download progress: 35790848/61835586 (58%)
+[16:48:31.826] [server] server download progress: 37896192/61835586 (61%)
+[16:48:32.033] [server] server download progress: 40001536/61835586 (65%)
+[16:48:32.124] [server] server download progress: 42106880/61835586 (68%)
+[16:48:32.173] [server] server download progress: 44212224/61835586 (71%)
+[16:48:32.349] [server] server download progress: 46317568/61835586 (75%)
+[16:48:32.439] [server] server download progress: 48422912/61835586 (78%)
+[16:48:32.474] [server] server download progress: 50528256/61835586 (82%)
+[16:48:32.672] [server] server download progress: 52633600/61835586 (85%)
+[16:48:32.705] [server] server download progress: 54738944/61835586 (89%)
+[16:48:33.028] [server] server download progress: 56844288/61835586 (92%)
+[16:48:33.073] [server] server download progress: 58949632/61835586 (95%)
+[16:48:33.108] [server] server download progress: 61054976/61835586 (99%)
+[16:48:33.122] [server] server download progress: 61835586/61835586 (100%)
+[16:48:34.035] [server] server inflate progress: 104/2064 (5%)
+[16:48:34.121] [server] server inflate progress: 209/2064 (10%)
+[16:48:34.215] [server] server inflate progress: 314/2064 (15%)
+[16:48:34.337] [server] server inflate progress: 419/2064 (20%)
+[16:48:34.504] [server] server inflate progress: 524/2064 (25%)
+[16:48:34.615] [server] server inflate progress: 629/2064 (30%)
+[16:48:35.289] [server] server inflate progress: 734/2064 (36%)
+[16:48:35.408] [server] server inflate progress: 839/2064 (41%)
+[16:48:35.517] [server] server inflate progress: 944/2064 (46%)
+[16:48:35.630] [server] server inflate progress: 1049/2064 (51%)
+[16:48:35.715] [server] server inflate progress: 1154/2064 (56%)
+[16:48:35.932] [server] server inflate progress: 1259/2064 (61%)
+[16:48:36.170] [server] server inflate progress: 1364/2064 (66%)
+[16:48:36.249] [server] server inflate progress: 1469/2064 (71%)
+[16:48:36.322] [server] server inflate progress: 1574/2064 (76%)
+[16:48:36.401] [server] server inflate progress: 1679/2064 (81%)
+[16:48:36.474] [server] server inflate progress: 1784/2064 (86%)
+[16:48:36.552] [server] server inflate progress: 1889/2064 (92%)
+[16:48:36.635] [server] server inflate progress: 1994/2064 (97%)
+[16:48:36.714] [server] server inflate progress: 2064/2064 (100%)
+[16:48:36.949] [server] Server integrity verified, version: 1.97.2 / e54c774e0add60467559eb0d1e229c6452cf8447 / x64 / 
+[16:48:36.978] [server] Server setup complete
+[16:48:36.978] [server] Starting server...
+[16:48:36.978] [server] Starting server with command... Command { std: "/wns_ana/hushiqi-ana/.vscode-server/cli/servers/Stable-e54c774e0add60467559eb0d1e229c6452cf8447/server/bin/code-server" "--connection-token=remotessh" "--accept-server-license-terms" "--start-server" "--enable-remote-auto-shutdown" "--socket-path=/tmp/code-5a065872-0a85-43f3-a82b-67cb089e051a", kill_on_drop: false }
+[16:48:37.137] [server] *
+[16:48:37.137] [server] * Visual Studio Code Server
+[16:48:37.139] [server] *
+[16:48:37.139] [server] * By using the software, you agree to
+[16:48:37.139] [server] * the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+[16:48:37.139] [server] * the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+[16:48:37.139] [server] *
+[16:48:37.140] [server] Server bound to /tmp/code-5a065872-0a85-43f3-a82b-67cb089e051a
+[16:48:37.140] [server] Extension host agent listening on /tmp/code-5a065872-0a85-43f3-a82b-67cb089e051a
+[16:48:37.140] [server] parsed location: "/tmp/code-5a065872-0a85-43f3-a82b-67cb089e051a"
+[16:48:37.140] [server] 
+[16:48:37.140] [server] Server started
+[16:48:37.207] [server] [16:48:37] 
+[16:48:37.249] [server] 
+[16:48:37.249] [server] 
+[16:48:37.249] [server] 
+[16:48:37.299] [server] [16:48:37] Extension host agent started.
+[16:48:37.357] [server] [16:48:37] [<unknown>][50786e3e][ExtensionHostConnection] New connection established.
+[16:48:37.398] [server] [16:48:37] [<unknown>][7b8e1505][ManagementConnection] New connection established.
+[16:48:37.398] [server] Generating translation files failed. Error: ENOENT: no such file or directory, open '/wns_ana/hushiqi-ana/.vscode-server/cli/servers/Stable-e54c774e0add60467559eb0d1e229c6452cf8447/server/out/nls.keys.json'
+[16:48:37.399] [server]     at async open (node:internal/fs/promises:641:25)
+[16:48:37.399] [server]     at async Object.readFile (node:internal/fs/promises:1258:14)
+[16:48:37.399] [server]     at async sb (file:///wns_ana/hushiqi-ana/.vscode-server/cli/servers/Stable-e54c774e0add60467559eb0d1e229c6452cf8447/server/out/server-main.js:3:16849)
+[16:48:37.454] [server] [16:48:37] Marked extension as removed mechatroner.rainbow-csv-3.16.0
+[16:48:37.454] [server] [16:48:37] Marked extension as removed ms-ceintl.vscode-language-pack-zh-hans-1.96.2024121109
+[16:48:37.454] [server] [16:48:37] Marked extension as removed ms-dotnettools.vscode-dotnet-runtime-2.2.6
+[16:48:37.564] [server] [16:48:37] Deleted marked for removal extension from disk ms-ceintl.vscode-language-pack-zh-hans /wns_ana/hushiqi-ana/.vscode-server/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.96.2024121109
+[16:48:37.564] [server] [16:48:37] Deleted marked for removal extension from disk ms-dotnettools.vscode-dotnet-runtime /wns_ana/hushiqi-ana/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.6
+[16:48:37.678] [server] [16:48:37] Deleted marked for removal extension from disk mechatroner.rainbow-csv /wns_ana/hushiqi-ana/.vscode-server/extensions/mechatroner.rainbow-csv-3.16.0
+[16:48:37.686] [server] [16:48:37] [<unknown>][50786e3e][ExtensionHostConnection] <111916> Launched Extension Host Process.
+[16:48:43.288] [server] [16:48:43] Getting Manifest... ms-ceintl.vscode-language-pack-zh-hans
+[16:48:43.288] [server] [16:48:43] Getting Manifest... ms-dotnettools.vscode-dotnet-runtime
+[16:48:43.289] [server] [16:48:43] Getting Manifest... ms-python.debugpy
+[16:48:44.173] [server] [16:48:44] Installing extension: ms-ceintl.vscode-language-pack-zh-hans {
+[16:48:44.173] [server]   productVersion: { version: '1.97.2', date: '2025-02-12T23:20:35.343Z' },
+[16:48:44.173] [server]   pinned: false,
+[16:48:44.173] [server]   operation: 3,
+[16:48:44.173] [server]     scheme: 'file',
+[16:48:44.173] [server]   }
+[16:48:44.280] [server] [16:48:44] Installing extension: ms-python.debugpy {
+[16:48:44.280] [server]   productVersion: { version: '1.97.2', date: '2025-02-12T23:20:35.343Z' },
+[16:48:44.280] [server]   pinned: false,
+[16:48:44.280] [server]   operation: 3,
+[16:48:44.280] [server]   isApplicationScoped: false,
+[16:48:44.280] [server]   installOnlyNewlyAddedFromExtensionPack: true,
+[16:48:44.281] [server]     scheme: 'file',
+[16:48:44.281] [server]     authority: '',
+[16:48:44.281] [server]     path: '/wns_ana/hushiqi-ana/.vscode-server/extensions/extensions.json',
+[16:48:44.281] [server]     fragment: '',
+[16:48:44.281] [server]     _formatted: 'file:///wns_ana/hushiqi-ana/.vscode-server/extensions/extensions.json',
+[16:48:44.281] [server]     _fsPath: '/wns_ana/hushiqi-ana/.vscode-server/extensions/extensions.json'
+[16:48:44.281] [server]   }
+[16:48:44.281] [server] }
+[16:48:44.312] [server] [16:48:44] Installing extension: ms-dotnettools.vscode-dotnet-runtime {
+[16:48:44.312] [server]   productVersion: { version: '1.97.2', date: '2025-02-12T23:20:35.343Z' },
+[16:48:44.312] [server]   pinned: false,
+[16:48:44.312] [server]   operation: 3,
+[16:48:44.313] [server]     path: '/wns_ana/hushiqi-ana/.vscode-server/extensions/extensions.json',
+[16:48:45.638] [server] [16:48:45] Getting Manifest... ms-python.python
+[16:48:47.359] [server] [16:48:47] Extension signature verification result for ms-dotnettools.vscode-dotnet-runtime: Success. Executed: true. Duration: 951ms.
+[16:48:47.404] [server] [16:48:47] Extension signature verification result for ms-ceintl.vscode-language-pack-zh-hans: Success. Executed: true. Duration: 707ms.
+[16:48:47.469] [server] [16:48:47] Extracted extension to file:///wns_ana/hushiqi-ana/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8: ms-dotnettools.vscode-dotnet-runtime
+[16:48:47.473] [server] [16:48:47] Renamed to /wns_ana/hushiqi-ana/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8
+[16:48:47.481] [server] [16:48:47] Marked extension as removed ms-dotnettools.vscode-dotnet-runtime-2.2.7
+[16:48:47.509] [server] [16:48:47] Extension installed successfully: ms-dotnettools.vscode-dotnet-runtime file:///wns_ana/hushiqi-ana/.vscode-server/extensions/extensions.json
+[16:48:47.608] [server] [16:48:47] Extracted extension to file:///wns_ana/hushiqi-ana/.vscode-server/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.97.2025021209: ms-ceintl.vscode-language-pack-zh-hans
+[16:48:47.615] [server] [16:48:47] Renamed to /wns_ana/hushiqi-ana/.vscode-server/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.97.2025021209
+[16:48:47.636] [server] [16:48:47] Marked extension as removed ms-ceintl.vscode-language-pack-zh-hans-1.97.2025020509
+[16:48:47.643] [server] [16:48:47] Adding language packs from the extension ms-ceintl.vscode-language-pack-zh-hans
+[16:48:47.717] [server] [16:48:47] Extension installed successfully: ms-ceintl.vscode-language-pack-zh-hans file:///wns_ana/hushiqi-ana/.vscode-server/extensions/extensions.json
+[16:48:48.931] [server] [16:48:48] Extension signature verification result for ms-python.debugpy: Success. Executed: true. Duration: 899ms.
+[16:48:49.602] [server] [16:48:49] Extracted extension to file:///wns_ana/hushiqi-ana/.vscode-server/extensions/ms-python.debugpy-2025.0.1-linux-x64: ms-python.debugpy
+[16:48:49.613] [server] [16:48:49] Renamed to /wns_ana/hushiqi-ana/.vscode-server/extensions/ms-python.debugpy-2025.0.1-linux-x64
+[16:48:49.626] [server] [16:48:49] Marked extension as removed ms-python.debugpy-2025.0.0
+[16:48:49.640] [server] [16:48:49] Extension installed successfully: ms-python.debugpy file:///wns_ana/hushiqi-ana/.vscode-server/extensions/extensions.json

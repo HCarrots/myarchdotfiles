@@ -1,0 +1,12 @@
+2025-02-12 08:43:49 ERROR - failed to create the pid file
+2025-02-12 08:43:49 INFO - [clash]: time="2025-02-12T08:43:49.436637223+08:00" level=info msg="Start initial configuration in progress"
+2025-02-12 08:43:49 INFO - [clash]: time="2025-02-12T08:43:49.468429515+08:00" level=info msg="Geodata Loader mode: memconservative"
+2025-02-12 08:43:49 INFO - [clash]: time="2025-02-12T08:43:49.468447869+08:00" level=info msg="Geosite Matcher implementation: succinct"
+2025-02-12 08:43:49 INFO - [clash]: time="2025-02-12T08:43:49.469029964+08:00" level=info msg="Load GeoIP rule: cn"
+2025-02-12 08:43:49 INFO - running timer task `r0LItqTq5fWa`
+2025-02-12 08:43:49 ERROR - error sending request for url (https://onlysub.mjurl.com/api/v1/client/subscribe?token=317dbe2e5c4ec8e2f9dc0b843e5c2a4a): error trying to connect: dns error: failed to lookup address information: 域名解析出现暂时性错误
+2025-02-12 08:43:49 INFO - [clash]: time="2025-02-12T08:43:49.476259514+08:00" level=info msg="Load GeoIP rule: telegram"
+2025-02-12 08:43:49 INFO - [clash]: time="2025-02-12T08:43:49.483098830+08:00" level=info msg="Finished initial GeoIP rule telegram => Telegram, records: 12"
+2025-02-12 08:43:49 INFO - [clash]: time="2025-02-12T08:43:49.483153322+08:00" level=info msg="Finished initial GeoIP rule cn => DIRECT, records: 10552"
+2025-02-12 08:43:49 INFO - [clash]: time="2025-02-12T08:43:49.483317912+08:00" level=info msg="Initial configuration complete, total time: 46ms"
+2025-02-12 09:53:56 INFO - [clash]: time="2025-02-12T09:53:56.344276964+08:00" level=error msg="新加坡-优化2 failed to get the second response from http://www.YouTube.com: Head \"http://www.YouTube.com\": context deadline exceeded"

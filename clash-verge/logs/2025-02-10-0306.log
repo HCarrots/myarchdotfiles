@@ -1,0 +1,12 @@
+2025-02-10 03:06:55 ERROR - failed to create the pid file
+2025-02-10 03:06:55 INFO - [clash]: time="2025-02-10T03:06:55.131258869Z" level=info msg="Start initial configuration in progress"
+2025-02-10 03:06:55 INFO - [clash]: time="2025-02-10T03:06:55.168060273Z" level=info msg="Geodata Loader mode: memconservative"
+2025-02-10 03:06:55 INFO - [clash]: time="2025-02-10T03:06:55.168084789Z" level=info msg="Geosite Matcher implementation: succinct"
+2025-02-10 03:06:55 INFO - [clash]: time="2025-02-10T03:06:55.168867485Z" level=info msg="Load GeoIP rule: cn"
+2025-02-10 03:06:55 INFO - [clash]: time="2025-02-10T03:06:55.178096963Z" level=info msg="Load GeoIP rule: telegram"
+2025-02-10 03:06:55 INFO - [clash]: time="2025-02-10T03:06:55.184973293Z" level=info msg="Finished initial GeoIP rule telegram => Telegram, records: 12"
+2025-02-10 03:06:55 INFO - [clash]: time="2025-02-10T03:06:55.185038976Z" level=info msg="Finished initial GeoIP rule cn => DIRECT, records: 10552"
+2025-02-10 03:06:55 INFO - [clash]: time="2025-02-10T03:06:55.185189287Z" level=info msg="Initial configuration complete, total time: 53ms"
+2025-02-10 03:52:29 INFO - [clash]: time="2025-02-10T03:52:29.036829777Z" level=error msg="Start TUN listening error: configure tun interface: no such device"
+2025-02-10 03:52:34 INFO - [clash]: time="2025-02-10T03:52:34.038935590Z" level=error msg="新加坡-优化 failed to get the second response from http://www.YouTube.com: Head \"http://www.YouTube.com\": context deadline exceeded"
+2025-02-10 03:52:34 INFO - [clash]: time="2025-02-10T03:52:34.038969363Z" level=error msg="新加坡-优化3 failed to get the second response from http://www.YouTube.com: Head \"http://www.YouTube.com\": context deadline exceeded"

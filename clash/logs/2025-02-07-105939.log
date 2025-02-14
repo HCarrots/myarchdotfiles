@@ -1,0 +1,23 @@
+10:59:39 INF [API] listening addr=127.0.0.1:40845
+10:59:39 INF inbound create success inbound=mixed addr=:7890 network=tcp
+10:59:39 INF inbound create success inbound=mixed addr=:7890 network=udp
+10:59:40 INF [Config] initial compatible provider name=磁力下载
+10:59:40 INF [Config] initial compatible provider name=自动选择
+10:59:40 INF [Config] initial compatible provider name=谷歌服务
+10:59:40 INF [Config] initial compatible provider name=Steam
+10:59:40 INF [Config] initial compatible provider name=苹果服务
+10:59:40 INF [Config] initial compatible provider name=Twitter
+10:59:40 INF [Config] initial compatible provider name=境内使用
+10:59:40 INF [Config] initial compatible provider name=故障转移
+10:59:40 INF [Config] initial compatible provider name=哔哩哔哩
+10:59:40 INF [Config] initial compatible provider name=TikTok
+10:59:40 INF [Config] initial compatible provider name=ChatGPT
+10:59:40 INF [Config] initial compatible provider name=Telegram
+10:59:40 INF [Config] initial compatible provider name=Netflix
+10:59:40 INF [Config] initial compatible provider name=海外使用
+10:59:40 INF [Config] initial compatible provider name=节点选择
+10:59:40 INF [Config] initial compatible provider name=微软服务
+10:59:40 INF [Config] initial compatible provider name=Copilot
+10:59:40 INF [Config] initial compatible provider name=抖音
+10:59:40 INF [Config] initial compatible provider name=WhatsApp
+10:59:40 ERR [Inbound] start failed error=operation not permitted type=TUN stackType=gvisor inet=198.18.0.1/16

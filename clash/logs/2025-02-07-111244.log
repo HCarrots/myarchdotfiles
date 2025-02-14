@@ -1,0 +1,23 @@
+11:12:44 INF [API] listening addr=127.0.0.1:46023
+11:12:44 INF inbound create success inbound=mixed addr=:7890 network=tcp
+11:12:44 INF inbound create success inbound=mixed addr=:7890 network=udp
+11:12:44 INF [Config] initial compatible provider name=节点选择
+11:12:44 INF [Config] initial compatible provider name=谷歌服务
+11:12:44 INF [Config] initial compatible provider name=Twitter
+11:12:44 INF [Config] initial compatible provider name=Netflix
+11:12:44 INF [Config] initial compatible provider name=TikTok
+11:12:44 INF [Config] initial compatible provider name=境内使用
+11:12:44 INF [Config] initial compatible provider name=Telegram
+11:12:44 INF [Config] initial compatible provider name=ChatGPT
+11:12:44 INF [Config] initial compatible provider name=Steam
+11:12:44 INF [Config] initial compatible provider name=自动选择
+11:12:44 INF [Config] initial compatible provider name=抖音
+11:12:44 INF [Config] initial compatible provider name=Copilot
+11:12:44 INF [Config] initial compatible provider name=微软服务
+11:12:44 INF [Config] initial compatible provider name=海外使用
+11:12:44 INF [Config] initial compatible provider name=故障转移
+11:12:44 INF [Config] initial compatible provider name=苹果服务
+11:12:44 INF [Config] initial compatible provider name=WhatsApp
+11:12:44 INF [Config] initial compatible provider name=哔哩哔哩
+11:12:44 INF [Config] initial compatible provider name=磁力下载
+11:12:44 INF [DNS] server listening addr=127.0.0.1:1053

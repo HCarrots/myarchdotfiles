@@ -1,0 +1,12 @@
+2025-02-10 08:29:18 ERROR - failed to create the pid file
+2025-02-10 08:29:18 INFO - [clash]: time="2025-02-10T08:29:18.043111787Z" level=info msg="Start initial configuration in progress"
+2025-02-10 08:29:18 INFO - [clash]: time="2025-02-10T08:29:18.076340129Z" level=info msg="Geodata Loader mode: memconservative"
+2025-02-10 08:29:18 INFO - [clash]: time="2025-02-10T08:29:18.076359776Z" level=info msg="Geosite Matcher implementation: succinct"
+2025-02-10 08:29:18 INFO - [clash]: time="2025-02-10T08:29:18.076955075Z" level=info msg="Load GeoIP rule: cn"
+2025-02-10 08:29:18 INFO - [clash]: time="2025-02-10T08:29:18.083650951Z" level=info msg="Load GeoIP rule: telegram"
+2025-02-10 08:29:18 INFO - [clash]: time="2025-02-10T08:29:18.089605404Z" level=info msg="Finished initial GeoIP rule telegram => Telegram, records: 12"
+2025-02-10 08:29:18 INFO - [clash]: time="2025-02-10T08:29:18.089694983Z" level=info msg="Finished initial GeoIP rule cn => DIRECT, records: 10552"
+2025-02-10 08:29:18 INFO - [clash]: time="2025-02-10T08:29:18.089855775Z" level=info msg="Initial configuration complete, total time: 46ms"
+2025-02-10 08:29:18 INFO - [clash]: time="2025-02-10T08:29:18.091467685Z" level=error msg="Start Mixed(http+socks) server error: listen tcp 127.0.0.1:7890: bind: address already in use"
+2025-02-10 09:00:44 INFO - reset proxy by disabling the original proxy
+2025-02-10 09:00:44 INFO - clash core terminated

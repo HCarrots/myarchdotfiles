@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "DrawWave.C": "cpp",
+        "vector": "cpp",
+        "DrawEvent_v0.1.C": "cpp"
+    }
+}
